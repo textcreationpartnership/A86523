@@ -1,0 +1,895 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>A briefe exposition of the Lords Prayer: wherein the meaning of the word is laid open to the understanding of weake Christians, and what the carriage of their hearts ought to be in preferring each petition. / By Mr. Tho. Hooker preacher of Gods word.</title>
+            <author>Hooker, Thomas, 1586-1647.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1645</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 147 KB of XML-encoded text transcribed from 48 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-04">2011-04 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A86523</idno>
+            <idno type="STC">Wing H2642</idno>
+            <idno type="STC">Thomason E273_1</idno>
+            <idno type="STC">ESTC R212190</idno>
+            <idno type="EEBO-CITATION">99870836</idno>
+            <idno type="PROQUEST">99870836</idno>
+            <idno type="VID">123232</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A86523)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 123232)</note>
+            <note>Images scanned from microfilm: (Thomason Tracts ; 45:E273[1])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>A briefe exposition of the Lords Prayer: wherein the meaning of the word is laid open to the understanding of weake Christians, and what the carriage of their hearts ought to be in preferring each petition. / By Mr. Tho. Hooker preacher of Gods word.</title>
+                  <author>Hooker, Thomas, 1586-1647.</author>
+               </titleStmt>
+               <extent>[2], 90 p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed by Moses Bell for Benjamin Allen, and are to be sold at his shop in Popes head Alley at the signe of the Crown.,</publisher>
+                  <pubPlace>London, :</pubPlace>
+                  <date>1645.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Annotation on Thomason copy: "March 10th 1644"; the 5 in imprint date is crossed out.</note>
+                  <note>Reproduction of the original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Lord's prayer --  Commentaries --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2008-12</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2009-02</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2009-04</date>
+            <label>John Pas</label>Sampled and proofread</change>
+         <change>
+            <date>2009-04</date>
+            <label>John Pas</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2009-09</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:123232:1"/>
+            <pb facs="tcp:123232:1" rendition="simple:additions"/>
+            <p>A briefe EXPOSITION OF THE Lords Prayer: Wherein the meaning of the words is laid open to the underſtanding of weake Chriſtians, and what the carriage of their hearts ought to be in preferring each Petition.</p>
+            <p>By Mr. THO. HOOKER Preacher of Gods Word.</p>
+            <p>LONDON, Printed by <hi>Moſes Bell</hi> for <hi>Benjamine Allen,</hi> and are to be ſold at his ſhop in Popes head Alley at the ſigne of the Crown. 1645.</p>
+         </div>
+      </front>
+      <body>
+         <div type="exposition">
+            <pb facs="tcp:123232:2"/>
+            <pb n="1" facs="tcp:123232:2"/>
+            <head>A briefe EXPOSITION OF THE LORDS PRAYER.</head>
+            <p>
+               <seg rend="decorInit">I</seg>N the Prayer are three things ob<g ref="char:EOLhyphen"/>ſervable.</p>
+            <list>
+               <item>1. The Preface, <hi>Our Father.</hi>
+               </item>
+               <item>2. The Prayer it ſelfe, divided into ſix petitions.</item>
+               <item>3. The concluſion of faith in the word <hi>Amen.</hi> The ſoule goes up to heaven, and follows the petition, <hi>hallowed be thy name,</hi> let it be Lord as thou mayſt have glory. Looke as a man that darts an Arrow, hee puts the utmoſt of his ſtrength unto it: So the word <hi>Amen</hi> ſpeeds all the reſt, ſpeeds all and brings a good iſſue to the ſoule by all.</item>
+            </list>
+            <p>Firſt, for the Preface, and there we muſt examin in generall two things, the ſenſe, and meaning of the words.</p>
+            <p>Secondly, what ground of incouragement it af<g ref="char:EOLhyphen"/>fords us to ſeek God: And</p>
+            <pb n="2" facs="tcp:123232:3"/>
+            <p>Firſt, obſerve the party ſought, <hi>Father.</hi>
+            </p>
+            <p>Secondly, the excellencie of him, <hi>which art in heaven.</hi>
+            </p>
+            <p>Thirdly, the intereſt we have in him, he is <hi>Our Father.</hi>
+            </p>
+            <p>
+               <hi>Why,</hi>
+               <note place="margin">Queſt.</note> 
+               <hi>or in what ſenſe is God called a Father?</hi>
+            </p>
+            <p>Firſt,<note place="margin">Reſp.</note> He is the Father of Chriſt by eternall gene<g ref="char:EOLhyphen"/>ration.</p>
+            <p>Secondly, he is the Father of men two wayes:
+<list>
+                  <item>1. By creation, ſo the Scripture runnes, <hi>Job</hi> 1.9. the Angels are called the ſonnes of God,<note place="margin">
+                        <hi>Job</hi> 1.9.</note> becauſe they were created by God; ſo God is our Father by creation, and thus hee is a Father to the juſt and unjuſt,<note place="margin">Pſal. 139.</note> 
+                     <hi>Pſal.</hi> 139. <hi>I am wonderfully made,</hi> ſaith the Text.</item>
+                  <item>2. By adoption and grace in that he doth freely take us to be his ſonnes in Chriſt; he puts us in<g ref="char:EOLhyphen"/>to the right of his children, as a man puts a ſtranger into the right of his ſonne: And thus God is a Fa<g ref="char:EOLhyphen"/>ther to his choſen onely, that looke what Chriſt hath,<note place="margin">Rom. 8.17.</note> they have, <hi>Rom.</hi> 8.17. <hi>If ſonnes then heires,</hi> we are heires, Gods choſen children; both theſe wayes God is our Father.</item>
+               </list>
+            </p>
+            <p>
+               <hi>Doe we onely pray to the Father,</hi>
+               <note place="margin">Queſt.</note> 
+               <hi>in that wee ſay, Our Father?</hi>
+            </p>
+            <p>No,<note place="margin">Reſp.</note> we pray not to the Father only, but we pray to the holy Trinity, we make mention of the Father only, yet we muſt direct our prayers to one God in three perſons in that Godhead; however we menti<g ref="char:EOLhyphen"/>on not all, yet we direct to all, all our petitions, the reaſon is this, becauſe otherwiſe we ſhould have made an Idoll of God; I ſay concerning but of one
+<pb n="3" facs="tcp:123232:3"/>perſon we make an idoll of God, and call not upon him as he is.</p>
+            <p>
+               <hi>How may we apprehend of God aright in prayer?</hi>
+               <note place="margin">Queſt.</note>
+            </p>
+            <p>Thus:<note place="margin">Reſp.</note> as God hath revealed himſelfe in his Word, ſo we apprehend him, not putting any image at all upon him; as Inſtance thus; two wayes:</p>
+            <p>Firſt, he that creates all, governs all, knowes all, ſees all, by whom I live, move, and have my being; to that God I pray. The Scripture hath revealed God thus, and he fills heaven and earth, &amp;c. To that God then that is thus infinite, to him I call; I goe now no further to the ſeeing of an image, but to an all-ſeeing God I come.</p>
+            <p>Secondly, inſtance thus, looke abroad into the creatures, and in all you ſhall ſee a power and a goodneſſe: Now from whence came this power? The power of Beaſts came not from the power of trees and the like, but there was a firſt power which gave all power to the creatures: The Creator is infinitely more powerfull then the creature.</p>
+            <p>There is goodneſſe alſo in the creatures; all that came from the firſt goodneſſe, that let out it ſelfe; now that which lets forth it ſelfe to the creature, is in the Creator infinitely above the creature; that is, the Lord. Thus you muſt quit your ſelves of an image; he that gives all, is above all; God gives all, therefore he is above all; and to that God I put up my petition.</p>
+            <p>
+               <hi>Why doe we not mention the Sonne and the Holy Ghoſt as well as the Father?</hi>
+               <note place="margin">Queſt.</note>
+            </p>
+            <pb n="4" facs="tcp:123232:4"/>
+            <p>Becauſe the Father is the firſt perſon in the Trinity,<note place="margin">Reſp.</note> and the Fountaine from whence all flowes; the Father workes of himſelfe, the Sonne of him, the Holy Ghoſt from them both: there<g ref="char:EOLhyphen"/>fore we mention him onely, though we may men<g ref="char:EOLhyphen"/>tion the other, yet we pray onely to the Father.</p>
+            <p>
+               <hi>How doth this word Father help a man to call on God by Prayer?</hi>
+               <note place="margin">Queſt.</note>
+            </p>
+            <p>When we conceive of God as a Father,<note place="margin">Reſp.</note> it puts us in minde of his mercy, that he will pitty us as a Father. A man will be reconciled unto his ſonne eaſily, and will ſpare his ſonne, though he be a prodigall, yet a father will paſſe by and cover all. So I pray to a Father; did I pray to a Judge that will condemn me, or an enemy that would not be recon<g ref="char:EOLhyphen"/>ciled to me, little hope I had to ſpeed becauſe I have wronged him? yet <hi>I will ariſe and goe to my Father, and ſay, Father I have ſinned:</hi> Pſal. 103.13. <hi>As a father pitties his ſonne,</hi>
+               <note place="margin">Pſal. 103. 13.</note> 
+               <hi>ſo God pittieth them that fear him:</hi> He is my child, ſaith God, though ſtubborne, and I muſt look to him. When a mans rebellions witneſſe againſt him, and Satan vexeth him, and ſaith, What, doſt thou think to have mercy, and art ſo vile? True, ſaith the ſoule, I am naught, but I goe to a father. If a child doe but ayme at a thing, the father accepts him; if he ſpeak but halfe a ſentence, the Father interprets it: So this is the great incouragement of the faithfull to goe to God, that notwithſtanding ſo many failings, and though ſo dead and ſo barren, yet a father beares all. The Lord interprets all, though but broken ſpeeches, he accepts all, and regards all. We have a Father to
+<pb n="5" facs="tcp:123232:4"/>to goe to, that is willing to paſſe by many fai<g ref="char:EOLhyphen"/>lings.</p>
+            <p>Secondly, we have a ground of pitty, if it be but a ſigh, he receives it. So this may perſwade us of the willingneſſe of God to help us. If a man were to goe to him that is hard-hearted, little hope hee had to ſpeed; we ſay he is a cruell man, we had as good pull water out of a flint, &amp;c. A child will not beg of a ſtranger, but will goe to his father; ſo we pray to our Father, that is more willing to heare and grant then we are to aske.<note place="margin">Luke 15.</note> 
+               <hi>I will goe to my Fa<g ref="char:EOLhyphen"/>ther, ſaith the Prodigall;</hi> as who ſhould ſay, I am unworthy, yet I goe to a Father. Nay, the Lord heares before we call; he prepares the heart to call, and anſwers what it craves when they aske. The father puts into the childs mouth what it ſhall ſay, and then hee will give it what it craves: ſo God would have us ſeek for abundance of mercy, <hi>open thy mouth, &amp;c.</hi> God would faine give, but none will crave: it is God that muſt give a heart to crave, and this is got by prayer. As water put into a Pumpe will bring forth much waters: ſo pray that you may pray. If your earthly father knowes what to give to you, how much more can your heavenly Father give you a heart; nothing ſhall be wanting to them that go to God as a father: God bowes his care to the prayer of his people; he condeſcends to our weakneſſe, buckles himſelfe to heare us.</p>
+            <p>Thirdly, we are here to take notice of Gods fa<g ref="char:EOLhyphen"/>therly providence, to provide what may be ſutable to our occaſions: God hath all in ſtore, <hi>All the beaſts of the field are mine;</hi> he is <hi>the God of all com<g ref="char:EOLhyphen"/>fort,</hi>
+               <pb n="6" facs="tcp:123232:5"/>herefore he is provident. He that provides for the Ravens, and cauſeth the Lillies of the field to grow; if God care for theſe how much more for you? <hi>Matth.</hi> 6. <hi>hath the Lord a care for Oxen?</hi> He that feedeth the Ravens,<note place="margin">Matth. 6.</note> and clotheth the Lillies, he will much more provide for him that calls on him. Who then would not have God to his Father? As the Father provides for the ſonne, ſo God is a provident Father: let us walk in his wayes, and commit our ſelves to his providence and care.</p>
+            <p>Fourthly, this muſt teach us an awfulneſſe to come before him. What awe ſhould be in our hearts to come before an heavenly Father?</p>
+            <div type="part">
+               <head>Our Father.</head>
+               <p>FIrſt, obſerve that it is the tearme of relation, and it is in two things:
+<list>
+                     <item>1. Conſider the ſenſe of the words.</item>
+                     <item>2. The Motives.</item>
+                  </list>
+               </p>
+               <p>For the ſenſe of the words, three things are im<g ref="char:EOLhyphen"/>plyed.</p>
+               <p>Firſt, a proprietie: an intereſt we have to chal<g ref="char:EOLhyphen"/>lenge in ſpeciall, not as one friend to another, or one neighbour to another, or the like; but he is our Father; as we ſay it is our Land, ſo when we ſay <hi>Our Eather,</hi> we imply a ſpeciall <hi>claime to God;</hi> all that compaſſion and mercy in God is mine, as <hi>Nabal</hi> ſaid <hi>It is my meat.</hi>
+                  <note place="margin">Deut. 32.</note> The word <hi>my</hi> implyes a poſſeſſion, <hi>Deut.</hi> 32. <hi>Our God is not like the gods of the Heathens:</hi> and as <hi>Job</hi> ſaith, <hi>My Redeemer liveth.</hi>
+               </p>
+               <pb n="7" facs="tcp:123232:5"/>
+               <p>Secondly, this laying claime to God, implyes a communitie to all the houſhold of God; as the Sun is every mans, ſo God is every mans that is faithfull.</p>
+               <p>Thirdly, it notes a bond of ſociety between the faithfull children of the ſame Father. This is the meaning of the word <hi>Our;</hi> as the members agtee with the head, ſo they are helpfull; ſo God is help<g ref="char:EOLhyphen"/>full to all his faithfull ones.</p>
+               <p>Now the Motives whereby the ſoule may be furniſhed to call on God are three:</p>
+               <p>Firſt, a cheerfull readines to repair unto the Lord;<note place="margin">1. <hi>Motive.</hi>
+                  </note> &amp; why, we have an intereſt in him, he is our Father. The intereſt a childe hath in his father ſtirs him to come readily to his Father, he craves not of a ſtran<g ref="char:EOLhyphen"/>ger, as <hi>when the childe cryed they did carry him to his mother;</hi> If any thing befalls the childe, he ſaith, I will tell my father, and complaine to my mother, and the like: So aſke the childe, who will provide for him? he ſaith, My father: So it is here with our God. There is a freſh and living way that is mar<g ref="char:EOLhyphen"/>vellous eaſie and open, <hi>Whoſoever ſeeks ſhall finde, whoſoever knocks it ſhall be opened unto him;</hi> there<g ref="char:EOLhyphen"/>fore whatever our injuries be we ſhould not com<g ref="char:EOLhyphen"/>plain to the world: No, poure forth your prayers to your Father, and he will be ſure to hear you.</p>
+               <p>Secondly, as there ſhould be a chearie readineſſe to come to the Lord,<note place="margin">2. <hi>Motive.</hi>
+                  </note> ſo there ſhould be a ſpirituall boldnes to challenge what may be needfull. Among ſtrangers we are ſtrange, but amongſt friends we are bold; we have a right and title to theſe things, and we may be bold with our own. Thus <hi>David</hi>
+                  <pb n="8" facs="tcp:123232:6"/>challengeth God, <hi>As thou art faithful deliver me, I am thy ſervant, &amp;c.</hi> If a ſervant wants food or raiment he goes to his maſter: So ſaith <hi>David,</hi> I am thy ſer<g ref="char:EOLhyphen"/>vant, therefore <hi>give me underſtanding that I may live.</hi> When they bragged of <hi>Paul</hi> and <hi>Apollo,</hi> ſaith he, <hi>All is yours.</hi> This ſhould comfort our hearts; let us claime our portions, God is our Father, and he will give it: therefore be humbled in regard of your weakneſſe and unworthineſſe, and confident in regard of his mercy, and walk comfortably in regard of the Lord. If I ſhould ſee the childe doubt in regard of my readineſſe, I ſhould wonder: Care not, ſaith he, it is your owne, and <hi>he is our Father,</hi>
+                  <note place="margin">Marth. 6. 32. 3, <hi>Motive.</hi>
+                  </note> and all that is in him is ours, <hi>Matth.</hi> 6.32.</p>
+               <p>Thirdly, this ſtirs up our hearts to have a fellow-feeling of our brethrens miſery in our prayers, therefore God cuts off all in-ſeekings of our own. <hi>Our,</hi> as if he ſhould ſay, Is there never a <hi>Joſeph</hi> in priſon, never a <hi>Daniel</hi> in the Lions den, remember and pray for them. If one ſuffer all ſuffers, we are all members of one body; <hi>we ſhould mourne with thoſe that mourne, and weep with them that weep, Iſa.</hi>
+                  <note place="margin">Iſai. 58.</note> 58. Pus up a Prayer for the remnant: Oh that our hearts would have a fellow-feeling of their trouble.<note place="margin">Epheſ. 6.</note> 
+                  <hi>Paul</hi> begs for prayers as for a peny, <hi>Eph.</hi> 6. <hi>for me alſo;</hi> nay, he intreats the Romans to wraſtle for him in prayer.</p>
+            </div>
+            <div type="part">
+               <head>Which art in Heaven, &amp;c.</head>
+               <p>FIrſt, we are to open the ſence of the word <hi>Hea<g ref="char:EOLhyphen"/>ven;</hi> ſecondly, the motives to move the heart thereto.</p>
+               <pb n="9" facs="tcp:123232:6"/>
+               <p>
+                  <hi>Whether is God more in Heaven then in any other place?</hi>
+                  <note place="margin">Queſt.</note>
+               </p>
+               <p>No:<note place="margin">Reſp.</note> God, in regard of his eſſence, is in all pla<g ref="char:EOLhyphen"/>ces alike, he is wholly every where. The Godhead is altogether indiviſible; things of quantity fill a roome, but God is indiviſible; as he is unchange<g ref="char:EOLhyphen"/>able, ſo he is a ſimple being; therefore all of God is in the whole compaſſe of Heaven and Earth. <hi>Pſal.</hi> 139. <hi>If I goe to hell thou art there, &amp;c.</hi> God is in the ſame manner every where;<note place="margin">Pſal. 139.</note> you muſt con<g ref="char:EOLhyphen"/>ceive no parts in God, if God be immenſe, then all of him is every where and altogether in every place. All creatures have their being from God, he is in them and beyond them, he is excluded out of no place, included in no place.</p>
+               <p>
+                  <hi>If all of God be in every place,</hi>
+                  <note place="margin">Queſt.</note> 
+                  <hi>why then is he ſaid to be in Heaven onely?</hi>
+               </p>
+               <p>Firſt,<note place="margin">Reſp.</note> becauſe God would manifeſt the glory of his power more in Heaven then in Earth, becauſe we ſee him not here, <hi>Acts</hi> 17. we grope after him;<note place="margin">Acts 17.</note> but we know the royalty of a King appears more in Court or Parliament; ſo the excellency of God appears moſt in Heaven.</p>
+               <p>Secondly, there are three Heavens; the Heaven where the birds are, the Heaven where the ſtarres are, and the higheſt Heaven: now the third Hea<g ref="char:EOLhyphen"/>ven is meant here, for God hath reſerved this place as his chair of ſtate, <hi>the Heavens</hi> (ſaith <hi>David</hi>) <hi>are the Lords,</hi> no uncleane thing can come there. The Angels ſinned, and all the viſible Heavens are defiled by man; the ſunne is abaſed, the aire pol<g ref="char:EOLhyphen"/>luted, all theſe creatures that ſerve man are by man
+<pb n="10" facs="tcp:123232:7"/>defiled; but the higheſt Heaven was never defiled, becauſe it is the chamber of God; God leaſeth out theſe things to man, but he reſerves this Heaven for his own habitation. This is the ſpeciall reaſon why God is ſaid to be in Heaven.</p>
+               <p>
+                  <hi>What motives have we to prepare our hearts to pray<g ref="char:EOLhyphen"/>er,</hi>
+                  <note place="margin">Queſt.</note> 
+                  <hi>which is the ſcope of the Preface?</hi>
+               </p>
+               <p>They are ſpecially three.</p>
+               <p>Firſt,<note place="margin">Reſp.</note> it teacheth us to take notice of the purity of God, what ought to be the frame of our ſpirits when we appeare before him; he cannot abide ſluggiſh prayers from an impure heart, heavenly diſpoſitions beſt ſuits with Gods holineſſe; the ſan<g ref="char:EOLhyphen"/>ctity of our affections ought to anſwer Gods puri<g ref="char:EOLhyphen"/>ty. Kings (we know) as they will be entertained, ſo their entertainment muſt be that which ſuits to their greatneſſe. God is in Heaven beyond all cor<g ref="char:EOLhyphen"/>ruption, therefore if we approach neere to God we ſhould anſwer to his purity with hearts purged, that our hearts may be in Heaven, becauſe he is in Heaven to whom we pray,<note place="margin">Mal. 1. 14.</note> 
+                  <hi>Curſed be the deceiven that hath a male in his flock, and offers a female, &amp;c.</hi> our ſacrifice is our ſervice, and prayer is one of the chiefe. The God of Heaven is a pure God, then curſed be the man that hath ſtrong love, deſires and other affections, and offers the wealteſt to God, and ſerveth God with rubbiſh, curſed be that man; the pure God of Heaven will not looke on ſuch ſervice and impure prayers; God is pure, therefore the ſervice ought to be ſo. When men are to ſit before Princes, they are to fit themſelves according<g ref="char:EOLhyphen"/>ly, ſo it is here: Let us then think it an indignity
+<pb n="11" facs="tcp:123232:7"/>to God to appeare with rubbiſh diſpoſitions before him. He that will performe a ſolemne duty to a Prince will lay aſide all other occaſions: ſo as hee ſaid in another caſe well, lay by all; world, let me now have heavenly joy, for I come before a hea<g ref="char:EOLhyphen"/>venly Father.</p>
+               <p>Secondly, it is a ground of comfort that our ſpi<g ref="char:EOLhyphen"/>rits may be cheared; ſince God is in Heaven he is able to effect whatever our hearts deſire. To be in Heaven it argueth Majeſtie; now we doe nor prays to an earthly parent, who is liable to corruption, but to an heavenly Father we pray, who can doe what we will. He that is in a high place hath the advan<g ref="char:EOLhyphen"/>tage; ſo our heavenly Father hath the advantage of all other things, therefore what we crave is done alreadie, he can doe it; and our God is in Heaven, he will doe what he will. A vileneſſe ever accom<g ref="char:EOLhyphen"/>panies earthly things, but our Father is in Heaven; therefore <hi>Nehemiah</hi> made his prayer to the God of Heaven. There are dunghill duties in the world, but our Father is in Heaven. The King could not help the woman, but our Father is not an earthly father, but we pray to the God of Heaven. We have but earthly oppoſition here, but our Fa<g ref="char:EOLhyphen"/>ther is in Heaven, who can over-power all wrongs done to his children and rewards them.</p>
+               <p>Thirdly, this ſhews we ſhould with trembling approach his preſence: The God of Heaven is pow<g ref="char:EOLhyphen"/>erfull; we are creeping worms, and dare we come careleſly to ſuch a Father? A father implies a rea<g ref="char:EOLhyphen"/>dineſſe, and Heaven an awfulneſſe; when the mountains move, and the devills ſhake at the pre<g ref="char:EOLhyphen"/>ſence
+<pb n="10" facs="tcp:123232:8"/>
+                  <gap reason="duplicate" extent="1 page">
+                     <desc>〈1 page duplicate〉</desc>
+                  </gap>
+                  <pb n="11" facs="tcp:123232:8"/>
+                  <gap reason="duplicate" extent="1 page">
+                     <desc>〈1 page duplicate〉</desc>
+                  </gap>
+                  <pb n="12" facs="tcp:123232:9"/>of God, and the bleſſed Angels tremble be<g ref="char:EOLhyphen"/>fore him, how dare we approach his preſence un<g ref="char:EOLhyphen"/>ſeemly, leſt we have no anſwer; or to turn the eye one way and the head another? We are not able to beare it in a childe. Doe not ſuffer your mindes to wander; dare we preſſe in headily into the preſence of God, when as the Angels cover themſelves be<g ref="char:EOLhyphen"/>fore him? Let the feare of the Almighty fall on us: ſince God is in Heaven, let our hearts be reverently affected,<note place="margin">Acts 17. 28.</note> 
+                  <hi>for in him we live, move, and have our being.</hi> Thus much for the Preface.</p>
+            </div>
+            <div type="part">
+               <head>Hallowed be thy Name.</head>
+               <p>NOw we come to the Petitions, which are ſix; the Lord condeſcended to our weakneſſe and feebleneſſe, and therefore contrives them into a narrow ſcantling, three concerning Gods Name, Kingdom, and Will; three concerning our ſelves, things of this life, things of grace, and they in reſpect both of juſtification and ſanctification: In all ob<g ref="char:EOLhyphen"/>ſerve;</p>
+               <p>Firſt, the meaning of the Petition.</p>
+               <p>Secondly, the carriage of the heart in preſſing of it, <hi>Hallowed be thy Name.</hi> In it obſerve two things:</p>
+               <p>Firſt, what is here meant by Name.</p>
+               <p>Secondly, what it is to hallow this Name.</p>
+               <p>
+                  <hi>What is here meant by Name,</hi>
+                  <note place="margin">Queſt.</note> 
+                  <hi>or what is the Name of God?</hi>
+               </p>
+               <p>I anſwer; by Name is meant whatever God is made known to us by,<note place="margin">Reſp.</note> this is his Name; as a man
+<pb n="13" facs="tcp:123232:9"/>is known by his name, ſo the Lord reveales him<g ref="char:EOLhyphen"/>ſelfe to us by his Name. Now this conſiſts in two things:</p>
+               <p>Firſt, all the glorious Atributes of God, as Holy, Pure, Wiſe, Infinite, &amp;c. theſe are the Names of God.</p>
+               <p>Secondly, all the Ordinances of God, and the graces of Gods Saints, and the providence of God in the creature; and it is not the thing it ſelfe, but there is a declaration of God in theſe that is his Name. The creature is not the Name of God, but God working there; grace is not ſo much as the appearance of God in that grace.</p>
+               <p>
+                  <hi>What doe you meane by Hallowed?</hi>
+                  <note place="margin">Queſt.</note> 
+                  <hi>can you make God holier then he is, or adde any thing to God?</hi>
+               </p>
+               <p>No:<note place="margin">Reſp.</note> we cannot adde any thing unto him that gave all to us.</p>
+               <p>
+                  <hi>How then doe we hallow Gods Name?</hi>
+                  <note place="margin">Queſt.</note>
+               </p>
+               <p>When we make Gods Name to be diſcovered as a holy thing;<note place="margin">Reſp.</note> the expreſſure of this is that we would hallow.</p>
+               <p>
+                  <hi>How ſhall we doe that?</hi>
+                  <note place="margin">Queſt.</note>
+               </p>
+               <p>There was a conſultation in Heaven how that the God-head might be manifeſted,<note place="margin">Reſp.</note> might be ob<g ref="char:EOLhyphen"/>ſerved, elſe were here none to apprehend it from eternity: Nay, if there had beene any, they could not apprehend it. I will, ſaith God; have my At<g ref="char:EOLhyphen"/>tributes expreſſed; therefore God would have a Word, wherein his goodneſſe ſhould be diſcovered, <hi>Exod.</hi> 33.23.<note place="margin">Exod. 32. 23.</note> 
+                  <hi>Thou ſhalt not ſee my face but my back<g ref="char:EOLhyphen"/>parts thou ſhalt ſee.</hi> As it is with a torch, carry it from one place to another, and it will leave a
+<pb n="14" facs="tcp:123232:10"/>glimpſe behinde it: So it is in the ſurpaſſing beau<g ref="char:EOLhyphen"/>ty of God, he leaves ſome beams behinde him, that we may ſay, Juſtice and Mercy, &amp;c. have beene heere. Now we are ſaid then to hallow his Names when as we make this appear, when we deale with Gods Name as with a holy thing, and that appears in three particulars:</p>
+               <p>Firſt, when we acknowledge the excellency of him, we ought to take notice of the beauty and glory of God: Men of place thinke themſelves abuſed, if we paſſe by them and doe not reverence them; ſo when we come to deale with Gods Ordi<g ref="char:EOLhyphen"/>nances, doe you know what you doe? Gods Name is there, therefore obſerve it.</p>
+               <p>Secondly, as we ſhould acknowledge the worth of it, ſo we ſhould labour to preſerve it. Upon things of great weight and worth, what a price doe we ſet upon them? and how tenderly doe we look to them that no blemiſh bee caſt upon them? So ſhould wee doe with the Name of God. Goe to the Iſle of <hi>Shittim, &amp;c.</hi> they caſt the Commandments of God behinde their backs; the Heathen (ſaith God) would not doe ſo, they kiſſed the threſhold where Dagon was. So deale with Gods Name, let no blemiſh betide it, but deale with it as with a ho<g ref="char:EOLhyphen"/>ly thing. The leaſt ſtaine of ſinfull diſtemper doth not become the Name of God; you reſpect a holy thing, ſo doe the Name of God.</p>
+               <p>Thirdly, as we ſhould acknowledge this worth, ſo labour to ſet it out that others may ſee it, as oc<g ref="char:EOLhyphen"/>caſion ſhall be offered, when any honour may come to it thereby; expreſſe the beauty of the vertues
+<pb n="15" facs="tcp:123232:10"/>of God, that they may be obſerved; holy things are not to be kept ſecret when opportunity ſerves; <hi>Let your light ſo ſhine</hi> (ſaith the Text) <hi>that men may ſee the good in you:</hi> So whatever we ſee in the Name of God, as we ſhould keep it from blemiſh, ſo we ſhould ſet it out in the glory of it. A man ſhould hold out the light of the Goſpell, not hide it under a buſhell: ſhew as much of God as we can, that men may ſay, God hath been here indeed; that a mans word ſhould be like Gods Word that indites them.</p>
+               <p>
+                  <hi>How doth the heart behave it ſelfe in the putting up of this Petition?</hi>
+                  <note place="margin">Queſt.</note>
+               </p>
+               <p>Firſt, this behaviour of the ſoule doth mainly appeare in two things:<note place="margin">Anſw.</note>
+               </p>
+               <p>Firſt, it heartily deſires in all things that it ſhall doe that it may lift up the glory of God; now this we doe when in all things we have or doe there is a diſpoſition for the furtherance of Gods praiſe. All our life ſhould be like a lanthorne to convey light to others; ſo the heart ſhould deſire that in all things Gods glory ſhould be furthered, that we may doe nothing but we might further Gods glory by it. Silver and gold are fit to ſtamp the Kings image upon; ſo, a mans practice ſhould be good mettle to inſtamp Gods glory upon: not as painted windows to hinder the light, but to rebound the light. The Text ſaith, <hi>Herod did not give God the glory, the voice of God and not of man;</hi> he tooke the glory of God to himſelf, and did not give it to God. There be ſom kinde of glaſſes will reflect a mans image, ſo there ſhould be a conveying of glory from our ſelves to
+<pb n="16" facs="tcp:123232:11"/>God. Look as it is with a ball, the falling of it makes it rebound: ſo it ſhould be with our hearts, they ſhould rebound Gods glory when it falls upon us: This is a great skill. The Soule ſhould have no<g ref="char:EOLhyphen"/>thing but whereby God might be honoured. Any ſinfull courſe blemiſheth Gods glory; any priding of a mans ſelfe furthers not Gods glory, but the ſoule ſhould deſire that in all, God might be ac<g ref="char:EOLhyphen"/>knowledged and glorified.</p>
+               <p>
+                  <hi>When doth the ſoule doe this?</hi>
+                  <note place="margin">Queſt.</note>
+               </p>
+               <p>When the ſoule labours,<note place="margin">Anſw.</note> that in all things ſome<g ref="char:EOLhyphen"/>thing more then humane excellencie may appeare: For, if any thing of a mans own be diſcerned, wee fall ſhort of Gods name in every action. Such ſhould be our diſpoſitions, that ſomething more may bee ſeen then a baſe meane ſhadow. This is a skill in preaching and praying, there ſhould be more in all then humane diſcovered, as parts, gifts, and the like. If nothing appeare but ſelfe, the Name of God is deprived of what it ſhould have: As <hi>Paul</hi> ſaid, <hi>Doe I ſpeake as a man?</hi> But he demonſtrated the Spirit in him, it ſhould be diſcovered what I doe, that God works it, that he might have all the honour of it. God the Author of all ſhould have the glory of all; we talk of this and that, and ſay, let him be glorified, but we doe it not in our converſations.</p>
+               <p>
+                  <hi>What be the ſeverall works of the heart in doing this,<note place="margin">Queſt.</note> that it may appeare God is the Author of all, and the honour is due to him?</hi>
+               </p>
+               <p>The acts of the heart are two,<note place="margin">Anſw.</note> whereby it ſets forth the glory of God.</p>
+               <p>Firſt, in all ſervices a man ſhould not be quiet in
+<pb n="17" facs="tcp:123232:11"/>his affections and endeavours till he comes to the higheſt pitch, that is, Gods glory. All actions are in the way one towards another; as a payre of ſtayres, one goes from another and above the other. A man ſhould goe higher and higher till Gods glory mounts and ſurmounts them all. As a Miniſter firſt ſtudies to teach the people, that they may bee informed, but why informed? that they may ap<g ref="char:EOLhyphen"/>peare to be Chriſts, and that Gods grace may ap<g ref="char:EOLhyphen"/>peare in their converſations: the ſoule never reſts till it be here. A man goes to prayer in his Family, and why ſo? that he may ſhew God in his courſes. The ſervant ſends for his wages, and ſo is gone, and where is God all this while? This ſhould be our deſire, that in all our actions God may be diſcove<g ref="char:EOLhyphen"/>red to bee the Author, and to have the honour of all.</p>
+               <p>Secondly, the ſoule muſt be ſure not to goe be<g ref="char:EOLhyphen"/>yond Gods glory; as thus, a Miniſter preacheth that the people may be inſtructed, and he be hono<g ref="char:EOLhyphen"/>red as well as God, this is to be above God: A man prayes to honour God, and that it may be knowne he is a glorious profeſſour, thus; A man is above <hi>God</hi> as a Bird ſteps from one bough to another, till it come to the higheſt, and then it flyes away: So we ſtep up to <hi>Gods</hi> glory and goe beyond it, wee would have <hi>God</hi> glorified to glorifie us; but this is hypocriſie, to have <hi>God</hi> honoured that we may be ſecretly baſe: This is the deepeſt diſhonour to <hi>God,</hi> and he will be revenged of them one day, and pluck his praiſe out of their bowels. The three Wiſe men would not ſtay till the ſtar ſtood and went no fur<g ref="char:EOLhyphen"/>ther:
+<pb n="18" facs="tcp:123232:12"/>So where the ſtatre of <hi>Gods</hi> glory goes, let us goe, and not ſtay till we come thither, and when we are there, goe no further: This is the carriage of the heart, <hi>Phil.</hi> 1.20. that in life and death <hi>God</hi> may be honoured and exalted. Looke as it is with a workman that makes a peece of curious worke, we doe not give the honour to the toole, but to the Work-man; ſo <hi>God</hi> ſhould receive the honour of all, and from all.</p>
+               <p>Secondly, as the ſoule ſhould make <hi>God</hi> diſco<g ref="char:EOLhyphen"/>vered by himſelf; ſo hee ſhould deſire that <hi>God</hi> might bee acknowledged by others as wee our ſelves expreſſe it; and that appeares in two par<g ref="char:EOLhyphen"/>ticulars:</p>
+               <p>Firſt, that they might imbrace the excellencie of <hi>God;</hi>
+                  <note place="margin">Matth. 5.16.</note> 
+                  <hi>Let your light ſo ſhine before men;</hi> why ſo? not that they may ſee you, but that they may ſee your good workes; that is, <hi>God</hi> in your good workes, and glorifie him. Doe not thinke I would have others ſee my good parts, gifts, and the like, but only that they may ſee <hi>God</hi> in them. The Fiſher deſires that the fiſh would ſee the bait, not him: So hee that angles for the ſoules of others, doth not deſire that others may ſee him, but the grace of <hi>God.</hi> An Apprentice doth not ſtand in the ſhop to call over others to look on himſelfe, his perſon, properties, and the like, but to ſell his Maſters wares: And ſo we deſire that <hi>God</hi> may lift us up, but that is not the rule that men may ſee our good workes, but <hi>God</hi> in them: A child or a ſervant ſhould ſo walke that others may admire <hi>Gods</hi> grace in him; we are <hi>Gods</hi> workmanſhip.</p>
+               <pb n="19" facs="tcp:123232:12"/>
+               <p>Secondly, wee ſhould have hearts enlarged to bleſſe <hi>God,</hi> that hee hath been pleaſed to reveale himſelfe to us. Thus much for the firſt Petition.</p>
+            </div>
+            <div type="part">
+               <head>Thy Kingdome come.</head>
+               <p>
+                  <hi>VVHy is this added immediately to the for<g ref="char:EOLhyphen"/>mer?</hi>
+                  <note place="margin">Queſt.</note>
+               </p>
+               <p>Becauſe it is a ſpeciall meanes whereby the heart is fitted and the glory of <hi>God</hi> advanced;<note place="margin">Anſw.</note> the firſt was to hallow <hi>Gods</hi> Name, and to that end the Kingdome of Chriſt muſt be ſet up; for no natu<g ref="char:EOLhyphen"/>rall man can glorifie <hi>God,</hi> becauſe ſo long as ſinne and corruption prevailes it will never be; there<g ref="char:EOLhyphen"/>fore the power of Chriſts Spirit muſt doe it, and by it we muſt be ſwayed unto it.</p>
+               <p>
+                  <hi>What is the ſcope of this petition?</hi>
+                  <note place="margin">Queſt.</note>
+               </p>
+               <p>The main ſcope of it is thus much,<note place="margin">Anſw.</note> that the go<g ref="char:EOLhyphen"/>vernment of God by Chriſt might be ſet up and prevaile every where; as before Gods name was higheſt, ſo here the power and government of Chriſt is to be univerſall; that is, the generall: now we come to the particulars, and here conſider the ſenſe of the words.</p>
+               <p>Firſt, What is this Kingdome?</p>
+               <p>Secondly, the carriage of the heart in putting up this petition.</p>
+               <p>Thirdly, what is the comming of this Kingdom?</p>
+               <p>By <hi>Kingdome</hi> is meant that rule that Chriſt hath ſet up in the hearts of his. For the generall provi<g ref="char:EOLhyphen"/>dence of God, I take it, is not ſo much aimed at in
+<pb n="20" facs="tcp:123232:13"/>this place, or that ordinary providence of God over the creatures; this is ſet forth in the fourth petition, <hi>(Give us this day our daily bread,)</hi> but it is the rule of Chriſt that is ſet up in his Church.</p>
+               <p>
+                  <hi>How many fold is it?</hi>
+                  <note place="margin">Queſt.</note>
+               </p>
+               <p>It is two fold:<note place="margin">Anſw.</note> which are theſe,</p>
+               <p>Of
+<list>
+                     <item>
+                        <hi>Grace.</hi>
+                     </item>
+                     <item>
+                        <hi>Glory.</hi>
+                     </item>
+                  </list>
+both aymed at here.</p>
+               <p>
+                  <hi>What is the Kingdome of grace?</hi>
+                  <note place="margin">Queſt.</note>
+               </p>
+               <p>It is that whereby Chriſt by his Spirit and grace,<note place="margin">Anſw.</note> by the miniſtery of the Word, takes place in the hearts of his, and this he doth two waies.</p>
+               <p>Firſt, by over-powering &amp; caſting down all other things which are oppoſite thereunto, all the power of ſin and Sathan, which are oppoſite to him.</p>
+               <p>Secondly, he ſets up that frame of Spirit, where<g ref="char:EOLhyphen"/>by it is ſubject to grace, and it takes place two wayes,</p>
+               <p>Firſt, by cutting down and killing of every ſin.</p>
+               <p>Secondly, the ſoul takes the ſtamp of every con<g ref="char:EOLhyphen"/>dition, and is ruled by it.</p>
+               <p>
+                  <hi>What is the Kingdome of glory?</hi>
+                  <note place="margin">Queſt.</note>
+               </p>
+               <p>Gods immediate ruling in the hearts of the glori<g ref="char:EOLhyphen"/>fied Saints.<note place="margin">Anſw.</note>
+               </p>
+               <p>
+                  <hi>How doth the Kingdome of grace and glory differ?</hi>
+                  <note place="margin">Queſt.</note>
+               </p>
+               <p>Here in the Kingdome of grace God rules.<note place="margin">Anſw.</note>
+               </p>
+               <p>Firſt, by his Spirit.</p>
+               <p>Secondly, by the Word and Ordinances.</p>
+               <p>Thirdly, by the miniſtery of the Word: But in Heaven he rules immediatly: no more words and means, but Chriſt fills the ſoul fully, and then he
+<pb n="21" facs="tcp:123232:13"/>rules gloriouſly, when the underſtanding, will, and affections are full of Chriſt, and are fully and wholly ſubject to him; here in the vale of tears we meet with many rubs and oppoſitions, but then Chriſt ſhall ſhine fully and immediately. In all his Ordinan<g ref="char:EOLhyphen"/>ces we ſeek a Chriſt, but then we ſhall have all of him; ſo that we that have the Spirit have a glimpſe of heaven; therefore aſhamed ſhould we be to be wearie of God, let us be wearie of ſin: I tell you, it is a heaven to live here with God upon earth, and if it be a glorious thing to have a glimpſe of God here, how much more to be filled with God hereaf<g ref="char:EOLhyphen"/>ter in his Kingdome?</p>
+               <p>
+                  <hi>How is this Kingdome ſaid to come?</hi>
+                  <note place="margin">Queſt.</note>
+               </p>
+               <p>The comming of theſe Kingdomes implies three things.<note place="margin">Anſw.</note>
+               </p>
+               <p>Firſt, that the Word may be revealed in theſe pla<g ref="char:EOLhyphen"/>ces, where it hath not been,<note place="margin">Luk. 1.</note> 
+                  <hi>That the day-ſpring from on high, may viſit them that ſit in darkneſſe,</hi> that the Sun of righteouſneſſe might viſit them that want it, that the banquet of the Goſpell might be ſet up, <hi>Mat.</hi> 24. <hi>If any man ſay he is in the wilderneſſe, go not out, for where the Carkaſſe is, thither will the Eagles reſort.</hi> This is the firſt thing. A Kingdome is ſaid to come when a King rules in a place where he did not before, ſo it is here; <hi>Let all the people praiſe thee,</hi> ſaith <hi>David:</hi> he deſires not, that ſome tongues only, but that all tongues and languages ſhould do this.</p>
+               <p>Secondly, where ever the Goſpell doth ſhine, we deſire that it ſhould diſcover it ſelf more fully, and ſpread it ſelf where ever it comes; we deſire the Kings government ſhould enlarge the territories
+<pb n="22" facs="tcp:123232:14"/>more and more; ſo we deſire not only that Chriſt ſhould be revealed, but that more and more ſhould be gathered, that God may be taken in every where, and that every knee may bow to Chriſt, and lick the duſt, that ſo there may be an addition made to the Church, that every man in every kinde may come to Chriſt, and that God would caſt his skirt over him that more may be caught in his net, that the <hi>Jew</hi> and <hi>Gentile</hi> may be gathered into one ſheep-fold, and have one Shepheard.</p>
+               <p>Thirdly, that the power of it may be more and more ſetled, as <hi>the houſe of David grew ſtronger and ſtronger,</hi>
+                  <note place="margin">2 Sam. 3.1.</note> 
+                  <hi>but the houſe of Saul grew weaker and weaker,</hi> ſo, when Chriſt ſets up his candleſtick, that the ſeed that is ſowen there may take deep root. When a King hath erected Caſtles, then he hath his King<g ref="char:EOLhyphen"/>dome; ſo we deſire <hi>God</hi> may intrench himſelfe, and reare Caſtles of defence againſt his enemies which would remove him; that he would ſet himſelfe up ſtrongly, that every Traytor may be cruſht, and every baſe luſt; that <hi>God</hi> would ſlay them, and none but his Lawes take place; in a word, the iſſue returnes to thus much, we beſeech Chriſt that his Goſpel may ſpread and be ſtrong, and theſe dayes of ſinne may be waſted, and that he may come in the clouds, <hi>Revel.</hi> 22. and then, <hi>come Lord Jeſus, come quickly;</hi> that he would accompliſh the num<g ref="char:EOLhyphen"/>ber of his Elect, and gather thoſe that belong to his glory, and that they may bee everlaſtingly with him.</p>
+               <p>
+                  <hi>What is the carriage of the ſoul in putting up this petition?</hi>
+                  <note place="margin">Queſt.</note>
+               </p>
+               <pb n="23" facs="tcp:123232:14"/>
+               <p>It appears in three things.</p>
+               <p>Firſt, the ſoul deſires and ſo labours to be ſubject to the good pleaſure of the Lord: the heart ſaith, oh that I might be ſo diſpoſed, that I might be ſub<g ref="char:EOLhyphen"/>ject to the pleaſure of the Lord: we deſire that all thoſe things that are ſet up in our hearts, that are contrary to the good pleaſure and will of the Lord might be ſubdued, <hi>Pſal.</hi> 119.4. <hi>Thou haſt command<g ref="char:EOLhyphen"/>ed us to keep thy commandements,</hi> but, oh Lord, that my ſoul were ſo, thou haſt enjoyned me to do ſo, oh that I could do ſo, the Spirit ſhould be as wax to the ſeale, and inke to the paper, that the ſoul might take the impreſſion of every rule that God would ſet up in our ſouls; thus the ſoul ſhould be diſpo<g ref="char:EOLhyphen"/>ſed, to wiſh that the Lord would put this frame into us; this is a heart worth gold: thou haſt ſaid, <hi>ſeek me;</hi> oh, ſaith the ſoul, <hi>that I could ſeek thy face,</hi> and eccho, <hi>behold Lord, thy face I ſeek,</hi> to ſubmit wholly without any contending, not that the Lord ſhould force us, but that we ſhould take up our yoke, put our necks to the yoke, let the Word of the Lord bear the balance. When <hi>Mary</hi> wanted wine, and our Saviour checked her, and <hi>Martha</hi> cumbred with too much buſineſſe was reproved; <hi>thou art troubled with many things, &amp;c.</hi> they ſubmit<g ref="char:EOLhyphen"/>ted preſently, not a word more: ſo what the Lord commands let us do without any quarrelling, let the leaſt inkling of the Word beare the balance. When our Saviour ſent his Diſciples for the Aſſes Colt, they might have ſaid, but haply the man will not let him go, how then? <hi>I tell them,</hi> ſaith our Saviour, <hi>the Maſter hath need of him,</hi> and then
+<pb n="24" facs="tcp:123232:15"/>they will not deny him; that is enough, do but ſpeak and it is done, this the ſoul ſhould labour to attain unto.</p>
+               <p>Secondly, the ſoul carries it ſelf with an inward op<g ref="char:EOLhyphen"/>poſition to whatever is oppoſite to the government of the Lord Jeſus Chriſt, to the utmoſt of our power, it is in vain to ſay, it were wel if it were ſo, &amp; I would it were ſo, and yet to ſtand ſtill and not to ſet to our hands; but we muſt join ſides with the Lord, &amp; as he ſpake of <hi>Meroſh, Curſed art thou, becauſe thou wilt not help the Lord againſt the mighty.</hi> So truly the Lord Jeſus is comming to our Towns, to our fami<g ref="char:EOLhyphen"/>lies, therefore we ſhould ſtep out and help the Lord againſt thoſe mighty mountaines of pride and ſtub<g ref="char:EOLhyphen"/>borneſſe of heart: when a proud heart ſtirs, do you joine ſides with it? or cry out and ſay, good Lord help down with that proud heart, and ſtubborn ſpi<g ref="char:EOLhyphen"/>rit, and the like? the Lord ſaith it, and doth your heart yeeld? But if you ſay, come pride, and you and I will joine ſides together, and if the Word can remove us, let it, but we will joine ſides. Is this cal<g ref="char:EOLhyphen"/>ling for the Kingdome of Chriſt to come? No, no, you are traytors and conſpirators, and no ſubjects; therefore ſtop your mouths, this is not ſubmitting but conſpiring; when <hi>Jezabel</hi> looked out of the window with her painted face, ſaith <hi>Jehu, Who is on my ſide, fling her out:</hi> ſo the Lord ſaith, <hi>will you have pride, or me?</hi> if you be on my ſide, fling down that proud heart which hinders the Lord Jeſus Chriſt from taking place in your ſouls; you paint your ſelves in a ſturdy humour, but if you be on Gods ſide, fling down thoſe painted ſtrumpets; you muſt
+<pb n="25" facs="tcp:123232:15"/>not only oppoſe great ſins, but every ſin; we muſt not fodder and ſide with any ſecret ſin, although it be but with the appearance of evill; you muſt ab<g ref="char:EOLhyphen"/>ſtaine from it; you know what <hi>Moſes</hi> ſaid, of loſing not a hoof; another ſaid, he would not ſtart a hairs breadth from <hi>Gods</hi> Commandements in any parti<g ref="char:EOLhyphen"/>cular; ſo let us ſubdue all, not leave an inch, not a ſtamp, not ſo much as two nails of the <hi>Dagon</hi> of our curſed luſts, to rule in us; thus it ſhould be with the ſoul.</p>
+               <p>Thirdly, though the ſoul cannot be as it ſhould, yet it doth deſire the Lord that neither ſin nor ſelf-will may rule in us, lay all flat down under the go<g ref="char:EOLhyphen"/>vernment of Chriſt. When the heart finds a great deale of outwardneſſe and power of ſin, then it ſaith, Lord, thy Kingdome ſhould prevaile, but the Sons of <hi>Zeruiah</hi> are too ſtrong in me; therefore take power to thy ſelf, and pluck away whatever doth oppoſe thee. It was a good ſpeech of a good Chri<g ref="char:EOLhyphen"/>ſtian, that he deſired the Lord to rule whether he would or no. Thus the ſoul ſhould be diſpoſed to intreat the Lord, that he would break open the doore; when the Lord comes and we will not open, we deſire the Lord would come in by violence. The white horſe in conquering conquered; ſo the ſoul deſires the Lord to conquer, to break in and make way into the ſoul, and to take poſſeſſion wholly in the ſoul; now when the ſoul is loath this ſhould be, it is a wretched ſpirit, that when the Lord will take ſin whether we will or no, we are loath it ſhould be. Do we then pray Chriſts Kingdome ſhould come, when we are not able to bear a commandement?
+<pb n="26" facs="tcp:123232:16"/>No, no, the ſoul will labour to oppoſe ſin, and pray the Lord for power againſt corruption.</p>
+            </div>
+            <div type="part">
+               <head>Thy will be done in Earth as it is in Heaven.</head>
+               <p>THis is the third Petition, and in it are three things obſervable.</p>
+               <p>Firſt, the order, it is in the third place.</p>
+               <p>Secondly, the ſenſe and meaning of the words.</p>
+               <p>Thirdly, the frame of the heart in putting up this Petition.</p>
+               <p>Firſt, for the order, the reaſon of it is, becauſe the two former make way for this third; he that glorifies <hi>God</hi> in all things, and hath his power ſet up in him, he only doth what he commands; for natu<g ref="char:EOLhyphen"/>rally there is no ability in man to do the will of <hi>God;</hi> but when the Spirit works within, then we are able to frame our hearts to <hi>Gods</hi> will: <hi>David</hi> was a man after <hi>Gods</hi> own heart, and then he did his will; this is the reaſon of the order of the Petition. From the ground obſerve two grounds of directions.</p>
+               <p>Firſt, he that thinks out of his own power to do <hi>Gods</hi> will, it is impoſſible he ſhould do it, no, he will never do it.</p>
+               <p>Secondly, we muſt firſt ſubmit to the King<g ref="char:EOLhyphen"/>dome of Chriſt, before we can do his will; be under the government of <hi>Gods</hi> grace, and then go on cheerfully. We faile before we have ſubmitted; we would be doing, but firſt Chriſt muſt do ter<g ref="char:EOLhyphen"/>rible things to the heart, before it yeeld obedience. Now for the words.</p>
+               <pb n="27" facs="tcp:123232:16"/>
+               <p>
+                  <hi>What is the will of God?</hi>
+                  <note place="margin">Queſt.</note>
+               </p>
+               <p>It is the purpoſe of the Almighty touching the accompliſhment of any thing;<note place="margin">Anſw.</note> there is nothing done, but the LORD doth it: Whatſoever is brought to paſſe, that GOD wills in generall, <hi>Epheſ.</hi> 1.</p>
+               <p>
+                  <hi>How many kinds of will are there?</hi>
+                  <note place="margin">Queſt.</note> 
+                  <hi>or how mani<g ref="char:EOLhyphen"/>fold is the will of God?</hi>
+               </p>
+               <p>It is two-fold; not in regard of it ſelfe,<note place="margin">Anſw.</note> but in regard of us.</p>
+               <p>Firſt, the revealed will of God.</p>
+               <p>Secondly, the ſecret will of God.</p>
+               <p>
+                  <hi>What is the ſecret will of God?</hi>
+                  <note place="margin">Queſt.</note>
+               </p>
+               <p>It is that ſecret purpoſe he hath in himſelfe be<g ref="char:EOLhyphen"/>fore all worlds,<note place="margin">Anſw.</note> and hath not diſcovered it to the creature, <hi>Epheſ.</hi> 1.9. <hi>Having made known unto us the myſtery of his will according to his own good pleaſure which he hath purpoſed to himſelfe.</hi> The Goſpel was hid in the boſome of the Almighty, not obſervable by man or any creature under heaven, but now it is revealed; this is the ſecret will of God which was hid in himſelfe before all words, 1. <hi>Cor.</hi> 2.16. <hi>Who hath known the mind of God?</hi> The deep things of God none knowes but the Spirit of God; and as it is not made known, ſo we have nothing to doe with it in this place.</p>
+               <p>
+                  <hi>What is the revealed will of God?</hi>
+                  <note place="margin">Queſt.</note>
+               </p>
+               <p>It is the purpoſe of <hi>God</hi> that hee hath made known to us by his Word,<note place="margin">Anſw.</note> and revealed to us in his workes, whatever is done in heaven or earth is the will of <hi>God.</hi> I did not know <hi>God</hi> would deſtroy <hi>Bohemia</hi> and the <hi>Palatinate</hi> before I ſaw it; this is
+<pb n="20" facs="tcp:123232:17"/>the will here meant. I did not know of ſuch a friends death before he dyed, and then we muſt ſay, <hi>Thy will be done.</hi> What ever God hath made known either by workes or words, that we pray to have done.</p>
+               <p>
+                  <hi>What is this doing of the will of God?</hi>
+                  <note place="margin">Queſt.</note>
+               </p>
+               <p>It conſiſts in,<note place="margin">Anſw.</note> and implyes two things:</p>
+               <p>Firſt, that whatever God makes known to be his will to bring upon us, we ſhould willingly ſubmit and yeeld unto it. If God would have me poore, when it is done, we ſhould approve of the accom<g ref="char:EOLhyphen"/>pliſhment of <hi>Gods</hi> will. It is the breach of many commandements, that when <hi>God</hi> thwarts our de<g ref="char:EOLhyphen"/>ſire, we are unwilling it ſhould be done: The wife is unwilling her husband ſhould dye, and the huſ<g ref="char:EOLhyphen"/>band that the wife ſhould dye, never loſt a man ſuch a wife as I; this is profeſſedly againſt this peti<g ref="char:EOLhyphen"/>tion: We muſt imitate that of the good Prophet <hi>David,</hi> Pſal. 39. <hi>I held my tongue and ſaid nothing:</hi> Will the Lord have it not a word more? then his ſpirit yeelds preſently, takes the ſtroke, doth not thwart the good will of the Lord, this is the pra<g ref="char:EOLhyphen"/>ctice of <hi>David, Eli, Hezekiah, It is the Lord, let him doe what he will:</hi> Nay, our bleſſed Saviour him<g ref="char:EOLhyphen"/>ſelfe ſaith, <hi>Not my will, but thy will be done.</hi> But this is the folly of our hearts; we take up Armes againſt <hi>Gods will; God</hi> would have us to be poore and we will be rich: This is not to doe the will of God: Though <hi>God</hi> force us to doe it, yet that is no thankes to us; Thus we ſinne deſperately.</p>
+               <p>Secondly, the heart is not only content with what <hi>God</hi> will have us ſuffer, whether loſſe of life,
+<pb n="21" facs="tcp:123232:17"/>friends, liberty, and the like, but there is another will muſt be done by us; what <hi>God</hi> reveales to be a duty, muſt be diſcharged by us. If there be a truth to be made known to us, we muſt acquaint our ſelves with the will of the Lord, and then with all diligence practice it: Make my heart one with thine, that I may ever feare thy Name: Let thy will be mine: Oh ſaith the ſoule, that I might ever feare thy Name; this is to do the will of <hi>God.</hi> We doe not ſay, let it be ſpoken of and conſidered of by me, but let it be done, let it be accompliſhed by me: Wee muſt not lift at it, and give <hi>God</hi> good words, and talke, and leave it undone, but labour to doe it. It is not enough for the childe to ſay, I know what my father commands, but I muſt doe what I liſt. Such hearts cannot pray to expect any thing at the hand of the Lord; now and then to look at a duty, &amp;c. and to ſay, I would it were ſo, will not ſerve the turne. Away with that ſluggiſh<g ref="char:EOLhyphen"/>neſſe, to wiſh the will of <hi>God</hi> were done, and yet you will have your own wills.</p>
+               <p>To this precept belongs, that we ſhould ſet on others to doe <hi>Gods</hi> pleaſure. In vaine doe we wiſh it to be done, and yet doe not provoke on others to doe it. <hi>Paul,</hi> when <hi>Agrippa</hi> and he was grapling together, ſaith <hi>Agrippa,</hi> thou haſt perſwaded me al<g ref="char:EOLhyphen"/>moſt to be a Chriſtian; not almoſt, ſaith <hi>Paul,</hi> but I would have thee altogether as I am, except theſe bonds: I would not have thee fettered as I am, but inlarged in heart to doe Gods will. So that of <hi>Jo<g ref="char:EOLhyphen"/>ſhua, I and my houſe will ſerve the Lord;</hi> he that not onely neglects Gods will himſelfe, but hinders
+<pb n="30" facs="tcp:123232:18"/>others, that man doth not pray this petition aright; he that ſaith, <hi>Thy will be done,</hi> and in the mean time withdrawes others by his ſecret allurements, and ſaith, what? ſhould I be ſuch a foole to be at other mens bow and beck to ſit howling in a corner as thou doſt? No, no, well be it known to thee, thou that wilt not do Gods will here, the Lord will have his will done on thee one day to thy coſt: He that will not doe Gods will here, God will ſend him packing to Hell, and there he will execute his will upon him whether he will or no?</p>
+               <p>
+                  <hi>How muſt we doe the will of God, we doe now and then ſtumble at a duty, and now and then take up a ſervice,</hi>
+                  <note place="margin">Queſt.</note> 
+                  <hi>and we are neither whores nor theeves, but yet we are now and then peeviſh and wayward, &amp;c. is not this enough?</hi>
+               </p>
+               <p>No,<note place="margin">Anſw.</note> no, you muſt doe it in earth as it is in Hea<g ref="char:EOLhyphen"/>ven; not now to be ſomething, and then to be no<g ref="char:EOLhyphen"/>thing; now a Saint, and then a Devill; but you muſt doe the will of God as it is in Heaven.</p>
+               <p>
+                  <hi>But can a man doe the will of God on earth, as the bleſſed Angels doe it in Heaven?</hi>
+                  <note place="margin">Queſt.</note>
+               </p>
+               <p>A man cannot doe it in that meaſure the Angels doe it:<note place="margin">Anſw.</note> but we may doe it as they doe, and per<g ref="char:EOLhyphen"/>forme equall obedience with them, though not in quantity, yet in quality: A childe followes the fa<g ref="char:EOLhyphen"/>ther, though it cannot run ſo faſt as the father: A Scholler may imitate the copie, and write after it, though not write ſo faſt and well: So the ſervants of the Lord cannot doe the will of God here ſo, in that meaſure that the Angels doe it in Heaven, but in quality like them: Let their obedience be
+<pb n="31" facs="tcp:123232:18"/>our pattern, not in the meaſure, but in the manner of it.</p>
+               <p>
+                  <hi>In what things muſt it be done,</hi>
+                  <note place="margin">Queſt.</note> 
+                  <hi>and how can wee expreſſe any action like theirs?</hi>
+               </p>
+               <p>This reſemblance is in foure particulars.<note place="margin">Anſw.</note>
+               </p>
+               <p>Firſt, they doe it readily, they are preſt, and rea<g ref="char:EOLhyphen"/>dy at hand to doe the good will of the Lord upon all occaſions; they doe not withdraw themſelves, but preſently upon every occaſion doe what the Lord requires. We read, <hi>Job</hi> 1. that the ſonnes of <hi>God</hi> appeared before him, they are ever in his ſight to give attendance upon him, as the handmaid is ever at the hand of her Miſtris: So that of <hi>Iſaiah,</hi> the Text ſaith, they cover their faces before the Mercy Seat; they cover their faces in token of aw<g ref="char:EOLhyphen"/>fulneſſe and reverence, and cry <hi>Holy, Holy.</hi> They are ever before him as a dutifull ſervant is ever at his Maſters beck. They are at hand in this readines of theirs to doe the will of the Lord; we ſhould imitate them, to be ever prepared and at hand to doe the will of <hi>God;</hi> not to have our affections ſtragling, but with <hi>Ananias</hi> we muſt ſay, <hi>Here Lord;</hi> with <hi>Abraham, Behold thy ſervant is at hand.</hi> Thus it ſhould be with the ſoule; the Lord ſaith, you muſt not have this ſinne, and that corruption; we muſt reply, <hi>Thy will be done,</hi> LORD; we muſt not ſay as <hi>Moſes</hi> when the Lord commanded him to goe to <hi>Pharaoh,</hi> ſaith he, <hi>Who am I, Lord? ſend another:</hi>
+                  <note place="margin">1 Sam. 3.</note> No, it ſhould not be thus with us, wee ſhould be ready at hand, <hi>Here Lord, ſpeake Lord, for thy ſer<g ref="char:EOLhyphen"/>vant heareth, Acts</hi> 9. <hi>Goe to Paul,</hi> ſaith the Lord to
+<pb n="32" facs="tcp:123232:19"/>
+                  <hi>Ananias, and he went though he had been a perſecutor.</hi> Contrariwiſe, <hi>Jonah</hi> will goe to <hi>Tarſhiſh</hi> rather then to <hi>Nineve:</hi> We ſhould not doe thus, but as the An<g ref="char:EOLhyphen"/>gels, and as <hi>Cornelius,</hi> when he ſent for <hi>Peter, Acts</hi> 10. ſaith he, <hi>we are all here before thee to take notice of whatſoever it ſhall pleaſe God to reveale to us by thee.</hi> Let our Lamps be light and prepared, that whether the Bridegroome come at midnight, or at any other time, all may be in readineſſe at a puſh, that we may goe when the Lord calls; when the Lord ſaith, here is a ſinne to be ſorrowed for; here Lord, ſaith the ſoule. We muſt not let God ſtay for us, nor bee haled as a Beare to the ſtake in any duty: No, but we muſt attend the will of <hi>God;</hi> nei<g ref="char:EOLhyphen"/>ther muſt we ſtout it out, I will be wicked, and I will walk in my owne way, &amp;c. ſo you may, and periſh; and ſo you may and be damned, and go to Hell too when you have done. It is nothing what a man hales out whether he will or no, that is nothing. This is not to doe the will of <hi>God</hi> as it is in Heaven, but wee muſt alwayes be fitted and ready to doe what <hi>God</hi> requires. The Angels came before <hi>God,</hi> and the Text ſaith, the Devill by force full ſore againſt his will came alſo: So wicked men dare not but leave ſome ſinnes, but it is perforce, they are either conſtrain'd to it by the Lawes of men, or by the horrour of conſcience, and the like, not with ready cheerfulneſſe and willingneſſe. But we ſhould have our Lamps light.</p>
+               <p>Secondly, the Angels doe the will of the LORD ſpeedily, they are not delaying, but are willing and
+<pb n="33" facs="tcp:123232:19"/>preſt in the performances of <hi>Gods</hi> will. If the <hi>Lord</hi> doe but beck, they are gone.<note place="margin">Iſa. 6.</note> The Angels are ſaid to have divers wings, ſome to cover their face, in token of humility; ſome to cover their feet, to ſhew their preſtneſſe and readineſſe to doe the will of <hi>God,</hi> and with all ſpeed and haſte to doe what <hi>God</hi> at any time ſhall enjoyn and command. Thus we ſhould do it as they doe, wee muſt ſhake off all lingring and ſtiffeneſſe of ſpirit when we ſee <hi>Gods</hi> will ſhould be done, and that <hi>God</hi> requires it: But naturally we are marvelouſly lazie in our chriſtian courſe. When a man comes as a Beare to the ſtake, is that to doe the will of our heavenly Father as the Angels doe? doe they thus? No, nor wee ſhould not, if we doe it aright: We muſt imitate that of <hi>David,</hi> he will praiſe the Lord with his beſt abili<g ref="char:EOLhyphen"/>ties, <hi>and run the wayes of Gods Commandments;</hi> thus ſhould we doe, make haſte and delay not.<note place="margin">Pſal. 119. 32.</note> As when the Prophet <hi>Eliſha</hi> ſent his ſervant poſt-haſte to the womans ſonne, he bade him, <hi>ſalute no man,</hi> make no ſtay by the way. This marvellous care ſhould be in us; we ſhould pray for our lives, and run on in a Chriſtian courſe for our lives; not trifle, but go with all ſpeed till we come to our journeys end; not ſluggiſhly, as if a man cared not whether he did it or no, but a man ſhould pray for his life. If pro<g ref="char:EOLhyphen"/>fit or pleaſure would be tampering with us, ſalute them not, we ſhould take up our reſolutions to re<g ref="char:EOLhyphen"/>ject them. If honour or profit would be hanging about us, fling them off; let us not regard them, but ride poſt-haſte. When our Saviour ſent his Diſ<g ref="char:EOLhyphen"/>ciples
+<pb n="34" facs="tcp:123232:20"/>to preach, he bade them carry neither ſcrip nor ſtaffe to hinder them in their courſe. When <hi>Paul</hi> was converted, the Text ſaith, he never con<g ref="char:EOLhyphen"/>ſulted with fleſh and bloud; he adviſed not with carnall reaſonings, but what <hi>God</hi> commands, hee did: So when <hi>God</hi> calls for duty, we ſhould not reaſon with profit, pleaſures and honours, to pull off our caps, and aſke them leave to take up this duty and theſe performances. If the holy Apoſtle had done this, it would have hindered him; but he conſulted not with fleſh and bloud: So we ſhould do what ever God commands: It matters not what men would have of us, but let us have an eye to <hi>Gods</hi> command.</p>
+               <p>Thirdly, the Angels in Heaven doe the will of <hi>God</hi> faithfully, and their faithfulneſſe is in this, that they performe the whole will of <hi>God:</hi> They faile not, but doe it to a haires breadth. He is a faithfull ſervant that doth his Maſters will and command fully; ſo ſhould a Saint doe: Now faithfulneſſe appeares in two things:</p>
+               <p>Firſt, we muſt doe it all as they doe.</p>
+               <p>Secondly, we muſt do it in the right manner, not only the thing, but in the right manner <hi>God</hi> re<g ref="char:EOLhyphen"/>quires it.</p>
+               <p>This is faithfulneſſe: The Angels doe not ac<g ref="char:EOLhyphen"/>compliſh what meſſage they will, but <hi>God</hi> ſets it down, and his good pleaſure takes place, <hi>Pſal.</hi> 104. They fulfill the good pleaſure of the LORD, they ſtart not at any ſervice, no croſſeneſſe they ſtand at; <hi>God</hi> commands, they doe it, and becauſe
+<pb n="35" facs="tcp:123232:20"/>he commands it. So it ought to be with the hearts of the people of the LORD; we muſt not pick and chuſe, and do it in an aguiſh fit, when we liſt. It is ſaid of <hi>David,</hi> he did all the will of God, a man af<g ref="char:EOLhyphen"/>ter GODS own heart. It was the charge <hi>Mary</hi> gave, <hi>whatever he bids, do it.</hi> It is ſufficient GOD com<g ref="char:EOLhyphen"/>mands, though it be tedious; the Angels care not though all the Divels in hell rage: ſo the Saints of GOD ſhould do; be it tedious, that ſkils not, our care muſt be, that we may finiſh our courſe with comfort. A Saint doth not pick &amp; chuſe, but fears eve<g ref="char:EOLhyphen"/>ry ſin, &amp; takes up every duty; if all the Divels in hell oppoſe, yet the people of GOD will do his will. The Text ſaith, that <hi>Caleb</hi> and <hi>Joſhua</hi> followed God fully in the day of <hi>Maceba</hi> and <hi>Miriba</hi> in times of trouble; there is an Angel-like Spirit, to go thorow-ſtitch with the work; though father and mother were againſt them, yet they would go on. The con<g ref="char:EOLhyphen"/>trary was the ſin of <hi>Sardis,</hi> which GOD reproves ſharply; <hi>I have not found thy worke fall.</hi> Tis not enough to do ſome of GODS will, but we muſt do it all, or elſe the LORD regards not. The Divell will do well ſomtimes for his own ends, if he be pleaſed; but that is nothing, thou muſt do GODS will, pleaſed or not pleaſed, or elſe thou haſt a ſatanicall ſpirit; we muſt not ſay, the daies are troubleſome, &amp;c. but go thorow-ſtitch with it as the Angels do.</p>
+               <p>Thirdly, as we muſt do the will of God, ſo we muſt do it after the right manner, as <hi>God</hi> requires; thus <hi>Abraham</hi> did, when he was commanded to go
+<pb n="36" facs="tcp:123232:21"/>offer his Son <hi>Iſaac,</hi> he went early in the morning, as <hi>God</hi> required. If he had been to offer an Oxe, it had been nothing, but <hi>Abraham</hi> muſt offer his only Son <hi>Iſaac,</hi> the Son of the promiſe, and he muſt be the Sacrifice. So, for us not to be drunk, and to com<g ref="char:EOLhyphen"/>mit outragious ſins, that all the Crowes cry out of; thats nothing; but thy ſecret luſts, thy beloved <hi>Iſa<g ref="char:EOLhyphen"/>ac</hi>'s, they muſt be ſacrificed and abandoned, elſe thou doſt no more then the Devill. Thus thou muſt do the will of God, not as thou wilt, to ſan<g ref="char:EOLhyphen"/>ctifie half a Sabbath, but on Gods terms, or elſe it is nothing.</p>
+               <p>Fourthly, the Angels do the will of <hi>God</hi> conſtant<g ref="char:EOLhyphen"/>ly; where they were they are, <hi>Mat.</hi> 18. <hi>They are daily before the face of God, they hold out and perſevere to do Gods will.</hi> This ſhould be our practiſe, though we cannot do it in that manner, and ſo much as they, yet endeavour for it: <hi>Continue to the death,</hi> (ſaith the Text,) and what then? <hi>I will give you the Crowne of life.</hi> Our reward ſhall be for ever, let our labour be ſo, hold it out with conſtancie: A Saint ſhould be foure-ſquare, the ſame for ever; the fruits of righteouſneſſe are according to the parts of the yeare, ſpring and harveſt, autumne and winter; and the firſt fruits is fatneſſe, not to fall back, to be good in good company; with profeſſors, profeſſe; and with ſwearers, curſe; and with drunkards, be drun<g ref="char:EOLhyphen"/>kards; and with Divels, be Divels; the bleſſed An<g ref="char:EOLhyphen"/>gels do not thus: the Lord commends the good ſteward, <hi>Happie ſhall that ſervant be, that when his Maſter ſhall come, ſhall finde ſo doing.</hi> When the Lord
+<pb n="37" facs="tcp:123232:21"/>ſhall come and finde a Saint perſevere to the end, he ſhall be bleſſed indeed: the Angels will out-bid us in the meaſure of performances of Gods will, but yet we ſhould be ſpeedy, and readie, and faithfull, and conſtant as they: our hearts are holy in upright<g ref="char:EOLhyphen"/>neſſe, although not in that meaſure of exactneſſe, as theirs are.</p>
+               <p>
+                  <hi>What is the frame of the heart in putting up this Petition?</hi>
+                  <note place="margin">Queſt.</note>
+               </p>
+               <p>It appears in two things.<note place="margin">Anſw.</note>
+               </p>
+               <p>Firſt, it is willing to do it it ſelf.</p>
+               <p>Secondly, it is willing, and deſires to help and ſtir up others, to the utmoſt of its power, to do the will of God.</p>
+               <p>Firſt, the ſoul ought to be forward to know the will of God, and to labour to do it it ſelf, and this ap<g ref="char:EOLhyphen"/>pears in foure particulars.</p>
+               <p>Firſt, the heart is willing to do the will of God in laying down its own will, ſo far as it may be a hinderance from doing Gods will, for oftentimes our will and the will of <hi>God</hi> are contrary: there is naturally a ſturdy toughneſſe that lifts up it ſelf above the LORD, this muſt be removed, <hi>Not my will,</hi> (ſaith our Saviour) <hi>but thy will be done.</hi> If our will and <hi>Gods</hi> will cannot ſtand, we muſt lay down ours; but ſometimes we ſay deſperatly, (as they did) <hi>We will walk in our own waies &amp;c. and we will have a King as other Nations,</hi> we will have our baſe luſts to ſway and rule us. But ſo long as this is in us we cannot do the will of the LORD, we cannot ſerve two maſters: <hi>I came not</hi> (ſaith our Saviour) <hi>to do
+<pb n="38" facs="tcp:123232:22"/>my own will, but my fathers that ſent me.</hi> It is often times with our will, and the will of GOD, as with two buckets; the letting down of one is the lifting up of the other; and the lifting up of the other is the letting down of that; ſo when we let down our own wills, we lift up <hi>Gods;</hi> but the lift<g ref="char:EOLhyphen"/>ing up of our own wills, is the letting down of the good will of the <hi>Lord.</hi> Now the cauſe why we ſtick in ſervice, and cannot come off, is becauſe we would have our pleaſures, we would be this and that; ſo that the will of <hi>God</hi> is juſtled againſt the wall, and ſhut out of doores; but let this diſtemper be cruſh't, and then the will of <hi>God</hi> will take place. When we have done this, then we muſt repaire to the <hi>Lord</hi> to know what his pleaſure is, take his Warrant before we ſet upon the work; conſcionable attendance of <hi>Gods</hi> will ſhould be the root and ſpring of all our actions, not to go without it, but to have our ſpirits carried by it. This is as a Maſter-comptroler that ſwayes the ballance, and beares all before him. Tell me not, I cannot do it for my liberties ſake, &amp;c. But, I have no Warrant of <hi>Gods</hi> will; unleſſe the good will of the <hi>Lord</hi> go before me, I dare do nothing, <hi>Eph.</hi> 5.10.11. <hi>Proving what is acceptable to the Lord.</hi> As a Gold-ſmith laies the gold to the touch-ſtone, ſo prove yourſelves, and find out what is accepta<g ref="char:EOLhyphen"/>ble to the Lord. In the time of the old Law they put on the linnen Ephod, and went to inquire of the LORD whether the men of <hi>Kedar</hi> would come up; ſo ſhould we come to the LORD, (that is the touch<g ref="char:EOLhyphen"/>ſtone) and ſee what the LORD will have us to do,
+<pb n="39" facs="tcp:123232:22"/>and not to go to a company of carnall Counſellors, to conſult with honour, eaſe, wife and family, &amp;c. whether ſhall I ſuffer? ſaith the ſoul; ſaith honour, if you do thus, I am laid in the duſt; ſaith eaſe and profit, for my part, if you take this courſe, I am utterly undone and loſt; then ſaith the ſoul, if it be thus, I will not do it, let all ſinke and ſwim: thus they do not GODS will, but their owne; but they that do the will of GOD, let them inquire what his will is. Let honour, and profit, and eaſe, and world and all ſay what it will, but they wil do the LORDS will, we muſt not maſter conſcience (as it was the ſpeech of a wicked wretch,) one of his companions being in horror of conſcience, he bade him maſter it as he did, for before that he could never live quiet<g ref="char:EOLhyphen"/>ly, but now he was not at all troubled with it. Ma<g ref="char:EOLhyphen"/>ſtering of conſcience, in Engliſh, is ſearing of con<g ref="char:EOLhyphen"/>ſcience, but that muſt maſter you; and lead you to the performance of duty.</p>
+               <p>Thirdly, when this will of GOD is revealed, we muſt yeeld to it, without any quarrelling againſt it, or queſtioning of it; but let the ſoul be deliver<g ref="char:EOLhyphen"/>ed up to the will of GOD, as <hi>David</hi> ſaith, <hi>let my will be done with thine;</hi> when the LORD calls, <hi>ſeek my face,</hi> we ſhould eccho, <hi>thy face Lord I ſeek,</hi> 2 Tim. 2.19. we ſhould be prepared for the LORD, ſo to have our affections ſtrike as the LORD ſets them, and then we ſhould have hearts like GOD, then we ſhould do his will aright, then would it be in our hearts to do the will of the LORD, as <hi>David</hi> ſaith, <hi>Pſal.</hi> 40.</p>
+               <pb n="40" facs="tcp:123232:23"/>
+               <p>Fourthly, we ſhould have a couragious conſtant reſolution to go on with that work, and in that way GOD hath revealed to us, and hath laid open before us; ſo that the ſoul ſhould ſay, not my will, but give me a heart that may do thy will; thus we ſhould have a conſtant reſolution to go on, not to do it by fits and ſtarts, but as the Apoſtle ſaith, <hi>Fight the good fight of faith, and lay hold of eternall life.</hi> And ex<g ref="char:EOLhyphen"/>cept a man have this, he prayeth not this Petition aright, but out of hypocriſie; it is his own will he ſeeks, not the will of the LORD.</p>
+               <p>Now we muſt come to the ſecond thing: As we ſhould do the will of GOD our ſelves, ſo we ſhould further on others, and that appears in two par<g ref="char:EOLhyphen"/>ticulars.</p>
+               <p>Firſt, we ſhould further on others in the diſ<g ref="char:EOLhyphen"/>charge of duty.</p>
+               <p>Secondly, we ſhould joine ſides with others in the performing of duty.</p>
+               <p>Firſt, for the firſt, we muſt further on others. That is a pregnant place, <hi>Heb.</hi> 10. <hi>Provoke one ano<g ref="char:EOLhyphen"/>ther to love and good works,</hi> we muſt not only ſtand by and look on others, but provoke and egge on others, to ſtir up them to do the will of the LORD, 2 <hi>Cor.</hi> 9.3. the LORD there commends them, be<g ref="char:EOLhyphen"/>cauſe they gave good example to their brethren. It is good to have a ſtirring heart. Satan ſets on others to ſin, <hi>A little leaven leavens the whole lump.</hi> A man uſeth not to be drunk alone, but to draw on others with him. If Satan and his inſtruments be ſo, how much more ought we to do the contrary? There is
+<pb n="41" facs="tcp:123232:23"/>not a duty that more promotes GODS glory then this: wicked men, as infectious perſons, labour to infect others; ſo ſhould we be forward to help others. Theſe be as Stewards, they provoke their fellow-ſervants, go about reproving, exhorting one another. Thus a Chriſtian ſhould ſet on every man, and ſpurre on others to do the will of GOD, not only to take a Lecture our ſelves, but call on others to it.</p>
+               <p>Secondly, we ſhould labour to joine ſides with them to do GODS will. It was the practice of the <hi>Scribes</hi> and <hi>Phariſees</hi> to lay heavy loads and bur<g ref="char:EOLhyphen"/>thens upon others, but not ſtir them themſelves; but we ſhould joine ſides, and lend a helping-hand, in the performance of duty. When a Cart is at a ſet, it is not enough for a man to ſtand by and ſay, I would it were out, &amp;c. and yet never lend a help<g ref="char:EOLhyphen"/>ing hand, but he muſt joine with others to help it out; and if one teame will not do it out, on ano<g ref="char:EOLhyphen"/>ther to it; ſo when time of troubles comes, we ſhould be at the Cannons mouth at a dead lift; when another is not able to get out, by reaſon of tempta<g ref="char:EOLhyphen"/>tion, then we muſt join ſides with them, &amp; pray and mourn with them; <hi>Zac.</hi> 8.12. <hi>Let us go to the Houſe of the Lord, &amp; we wil go alſo.</hi> So it is not enough to pro<g ref="char:EOLhyphen"/>feſſe our ſelves GODS ſervants, but we muſt pray alſo for others, and ſuffer alſo, if neceſſity requires; as it was <hi>Davids</hi> ſpeech, <hi>Pſal.</hi> 38. <hi>Let us praiſe the Lord together, at a lift.</hi> So, if we would do GODS will, it is GODS will, as to pray our ſelves; ſo we ſhould ſay to others, let us pray and ſtudy together,
+<pb n="42" facs="tcp:123232:24"/>that the will of GOD may be done. It is not enough to wiſh that GODS will might be done, and we ſtand by with our hands in our pockets, and do not provoke on others; and lay reproaches on them, what, you pray? &amp;c. This heart is profeſſedly againſt the will of God; theſe are fore-men in the Devils ſhops, and ſchollers of the higheſt forme in Satans ſchoole; but, if we deſire to have GODS will done, let us ſet to our ſhoulders to the burthen, and help others. Thus much for the third Petition. <hi>Thy will be done, &amp;c.</hi>
+               </p>
+            </div>
+            <div type="part">
+               <head>Give us this day our daily bread.</head>
+               <p>VVE come now to the other three Petiti<g ref="char:EOLhyphen"/>ons; and they concern our ſelves meer<g ref="char:EOLhyphen"/>ly. The firſt is concerning the things of this life. And the other is concerning ſpirituall gifts; and it conſiſts partly in juſtification, and partly in ſancti<g ref="char:EOLhyphen"/>fication.</p>
+               <p>
+                  <hi>But firſt for the order,</hi>
+                  <note place="margin">Queſt.</note> 
+                  <hi>why do we beg for the things of this life before ſpirituall mercies? our bodily bread before our ſpirituall?</hi>
+                  <note place="margin">Anſw.</note>
+               </p>
+               <p>Becauſe in nature a man muſt have an outward being before we have a better. This life is the time of our trading, and after this life there is no grace to be had. Therefore we muſt have this life before we can live everlaſtingly with GOD hereafter; no man can get GOD by the means that doth not live;
+<pb n="43" facs="tcp:123232:24"/>therefore though the other be more neceſſary, yet a man, except he have this, he cannot have the o<g ref="char:EOLhyphen"/>ther, that living here bodily, we may live ſpiritu<g ref="char:EOLhyphen"/>ally hereafter.</p>
+               <p>Now for the ſenſe of the words.</p>
+               <p>Firſt, what is meant by giving?</p>
+               <p>Secondly, what is meant by bread with all the circumſtances, daily bread, and our daily bread? &amp;c.</p>
+               <p>Firſt, for the word giving implyes 3. things:</p>
+               <p>Firſt, that the Lord out of his goodneſſe and wiſe bounty would provide what may be profita<g ref="char:EOLhyphen"/>ble for us, and which we ſtand in need of; in a word, what we want he would ſupply.</p>
+               <p>Secondly, that he would preſerve and continue theſe good things that he hath beſtowed upon us, that he would graciouſly continue that lot and por<g ref="char:EOLhyphen"/>tion unto us, <hi>Pſal.</hi> 16. <hi>thou maintaineſt my lot:</hi> the Lord doth not onely give patrimony to his chil<g ref="char:EOLhyphen"/>dren, but preſerves and continues that which is needfull for them to them.</p>
+               <p>Thirdly, that the Lord would be pleaſed to ſend in the ſweet of his bleſſing upon all the bleſſings and mercies he hath been pleaſed to beſtow on us. The bleſſing of the Lord is the ſtaffe of bread. It is not enough to have theſe things: for, bread may choake us, the houſes we inhabit may fall upon our heads, if they be not bleſſed to us. The cove<g ref="char:EOLhyphen"/>tous man is as if he had nothing, if the Lord let in but a ſecret curſe and veine of vengeance into his ſoule. A man may have many outward bleſſings,
+<pb n="44" facs="tcp:123232:25"/>and yet have all the ſweet tooke from him; yea, many times all that a man hath may be a torment to him; the Lord can take off all the ſweet; there<g ref="char:EOLhyphen"/>fore we pray and intreat that the Lord would give us the ſweet of them, that they may be comforta<g ref="char:EOLhyphen"/>ble to us, as they are in themſelves; that the Lord would give all, bleſſe all, and preſerve all, and ſancti<g ref="char:EOLhyphen"/>fie all to us, that they may be all to us as they are in themſelves.</p>
+               <p>
+                  <hi>What is meant by bread?</hi>
+                  <note place="margin">Queſt.</note>
+               </p>
+               <p>Under this word bread are included all neceſſary helps and comforts of this life,<note place="margin">Anſw.</note> whatever concernes our lives, good name, eſtate; all things belonging to theſe is bread.</p>
+               <p>Becauſe bread is the ſtaffe of life, moſt eſpecially uſefull for life;<note place="margin">Reaſon.</note> other things are neceſſary, but wee cannot be without this bread. Therefore the <hi>Lord</hi> puts a part for the whole, and therefore we pray, that the LORD would give, and continue, and bleſſe all things, that are neceſſary for us, un<g ref="char:EOLhyphen"/>to us.</p>
+               <p>
+                  <hi>What kinde of bread muſt it be?</hi>
+                  <note place="margin">Queſt.</note>
+               </p>
+               <p>Our bread;<note place="margin">Anſw.</note> not that wee can procure or pur<g ref="char:EOLhyphen"/>chaſe it, but the word, <hi>Our,</hi> implyes two things:</p>
+               <p>Firſt, that wee may have a right and title to all theſe things in Chriſt, that we may have a tenure of them. For all theſe things are not the wicked mans properly, he uſurps them, and he ſhall anſwer for them; he ſits at a rack-rent, he ſhall be plagued for them. Now we pray that they may be our fee-ſimple, not that we muſt pay for them, but that
+<pb n="45" facs="tcp:123232:25"/>we may have the right and tenure of them, that we may claime them in Chriſt, that we may not an<g ref="char:EOLhyphen"/>ſwer for them, but that they may be ours.</p>
+               <p>Secondly, they may be ours in way of policie between man and man, that we may not have them by violence; not to have another mans riches and honour, but that we may have a politick right: this a wicked man may have by a politick right, to have it by the ſweat of our browes, now this we crave alſo. Now the difference between the politicke right of a naturall man and ſpirituall man is this, the Lord doth onely Leaſe out by his politick right theſe things to the wicked, but they ſit at a rack-rent: But they are not ſo to the godly, they have them for their fee-ſimple by a politick right be<g ref="char:EOLhyphen"/>tween man and man. Both theſe wayes we beg that they may be ours, that they may be ours in Chriſt, and that we may have our owne, not others to pluck it from others, but that it may be ours by our labour, meanes, patrimony, &amp;c.</p>
+               <p>
+                  <hi>What is meant by daily?</hi>
+                  <note place="margin">Queſt.</note>
+               </p>
+               <p>The word in the Originall ſignifies ſuperſubſtan<g ref="char:EOLhyphen"/>tiall bread, that is,<note place="margin">Anſw.</note> we crave all theſe things and the right and title to them. And for the meaſure, not barely ſo much food and clothes as wil keep the life and ſoule together, and no more, but that we may have to our lawfull delight, and, as one ſpoke, ſo much as will keep even at the yeers end, and a knot at the end to our lawfull ſociety.</p>
+               <p>
+                  <hi>Why this day?</hi>
+                  <note place="margin">Queſt.</note>
+               </p>
+               <p>It implyes three things:<note place="margin">Anſw.</note>
+               </p>
+               <pb n="46" facs="tcp:123232:26"/>
+               <p>Firſt, it implyes a daily need of ſuccour that wee have from the Lord: we doe not ſay, give us this mouth or this quarter, but give us this day; as who ſhould ſay, wee ſtand in need of a daily ſuccour from the Lord. The Lord would not have a Chriſtian have too much,<note place="margin">Luk. 12.19.</note> that he might be ſecure as the rich man in the Goſpell, <hi>Soule take thine eaſe,</hi> &amp;c. But the Lord would have us come for our break-faſt, dinner, ſupper, and all from him.</p>
+               <p>Secondly, it ſhewes a man muſt be content with his allowance; his deſire ſhould not be catching after future things, we beg not for our monthly and quarterly bread, but daily bread, enough for the preſent time.</p>
+               <p>Thirdly, it implies, that wee muſt pray for this daily bread, every day: A man muſt be daily beg<g ref="char:EOLhyphen"/>ging of the Lord. This is the meaning of <hi>this day.</hi> Gather then up all, and the ſumme returnes to thus much; we in this Petition beſeech the Lord, that all good things that concern life, good name, or food, may be ſupplyed to us, and that we may have a ſpirituall right to them in Chriſt, and a politicke right to them between man and man, that we may have more then barely enough, not to wring from others, to be content with the leaſt pittance, and daily and continually to beg for theſe things we want and ſtand in need of.<note place="margin">Queſt.</note>
+               </p>
+               <p>
+                  <hi>What is the frame of the heart,</hi>
+                  <note place="margin">Anſw.</note> 
+                  <hi>in putting up this Petition?</hi>
+               </p>
+               <p>It appeares in three particulars:</p>
+               <pb n="47" facs="tcp:123232:26"/>
+               <p>Firſt, a mans carefull painfulneſſe in his courſe and calling God calls him to and ſets him in.</p>
+               <p>Secondly, an humble dependance on GOD.</p>
+               <p>Thirdly, a quiet contentedneſſe with what God allowes.</p>
+               <p>For the firſt: he muſt be painfull; no man can ſay, Give me this day my daily bread, unleſſe he be painfull in his place; if we expect any thing other<g ref="char:EOLhyphen"/>wiſe, it is a mocking of God. We muſt be faith<g ref="char:EOLhyphen"/>full and painfull in our places: if wee expect any thing, honour, goods, good name, and labour not for it, we doe not pray aright: it was the command God gave, <hi>Gen.</hi> 3. <hi>In the ſweat of thy browes ſhalt thou eate thy bread all the dayes of thy life.</hi> There is no allowance for idleneſſe and careleſneſſe; the LORD ſets <hi>Adam</hi> to till the ground; ſo that if we will have any thing neceſſary for us, we muſt la<g ref="char:EOLhyphen"/>bour for it; for, ſaith the Apoſtle, <hi>He that will not labour ſhall not eate. The diligent hand maketh rich:</hi> but God makes rich, you will ſay; It is true, yet it is by a diligent hand. A Scholler muſt labour if he will have learning, &amp;c. Look as it is with a man that hath promiſed a man ſo much, and ſo much, at ſuch a time and at ſuch a time, &amp; at ſuch a place, if he will come for it; now if the man comes not for it, he loſeth it. Even ſo it is here; the LORD promiſeth ſucceſſe to our labour; the Lord will give the Plough-man by his Plough, the Tradeſman by his Trade, the Scholler in his ſtudy; and except we be painfull in our places, we can expect nothing. The Lord gives us our daily bread while we walke
+<pb n="48" facs="tcp:123232:27"/>with him: So that a man hinders himſelfe more by idleneſle then he profits himſelfe by prayer without diligence.</p>
+               <p>Secondly, the ſoule muſt have dependance upon God, when it hath done what it can. It muſt look for a breathing on them. A man ſhould be ſo pain<g ref="char:EOLhyphen"/>full in the uſe of the meanes, as though they could doe all, and yet ſo depend upon God above all meanes, as though all outward meanes could not doe any good without the Lord. Wee muſt not catch it out of Gods hands, but look to God in the way he hath chalked out before us, and then ex<g ref="char:EOLhyphen"/>pect of him what we want. It is the Lord that gives a man ſubſtance. <hi>In vain it is to riſe early in the morning, and goe to bed late, and eate the bread of carefulneſſe;</hi>
+                  <note place="margin">Pſal. 127. 1, 2.</note> 
+                  <hi>except the Lord bleſſe all, all is in vaine.</hi> Let us look therefore to him for all we ſtand in need of. It is the phraſe of the Wiſe man, <hi>The bleſſing of the Lord maketh rich.</hi> It is not policie and craft, and outward meanes that make rich, but the bleſſing of the Lord, from that expect all: though the Plow-man plow, though the Gardi<g ref="char:EOLhyphen"/>ner manure, and cut, and prune, yet nothing thrives unleſſe the dew of Heaven falls: So it is here in our courſe, all our labour, paines, meanes and coſt, though it be much and great, yet it will not thrive, unleſſe the Lord bleſſe. The Spirit of the Lord moved on the waters: Let us therefore look to his bleſſings upon all. A Scholler may labour and take much paines, and yet ſhall never attaine his end; either he ſhall not have it at all; or if he doe,
+<pb n="49" facs="tcp:123232:27"/>if ſhall be as <hi>
+                     <g ref="char:V">Ʋ</g>riahs</hi> Letter, choake him at the laſt: So that except wee depend on God, all la<g ref="char:EOLhyphen"/>bour and paines is nothing.</p>
+               <p>Thirdly, there muſt be a quiet contentednes, to be content with what God beſtowes and we receive; elſe we croſſe our ſelves, we crave for bread, and will have what we liſt. We doe not pray for dain<g ref="char:EOLhyphen"/>ties and coſtlineſſe of apparell, but for bread, that pittance the Lord ſhall be pleaſed to beſtow upon us: Now if nothing but dainties and curioſities will ſerve us, it is more then the Lord allowes, and we can expect to be beſtowed upon us. If we have meat and cloath wee muſt not looke to the quantity, not for a month, or a quarter, but goe to the Lord as to a market; let him diſpoſe it, or elſe wee beg one thing and deſire another; the Lord will be content to give us bread, not pearles; not to cocker us, but to give us what we ſtand in need of. That of <hi>Hagar</hi> ſhould be our prayer; <hi>Give me not too much, leſt I be proud; nor too little, leſt I put forth my hand to wickedneſſe,</hi>
+                  <note place="margin">Prov. 30.</note> 
+                  <hi>but give me food convenient.</hi> It is better to be at Gods allowance then our owne. A childe happily would have a coat foure or five yards too long, and to tire him, or fire to burne him; but a father will not have it too long, to tyre him, or fire to burne him. So our Father, wee would over-flow our meaſures: out-run our portions too beyond our need. It is with us as it is with dyets, ſicke men would have hot wines, and ſalt meates, and eate exceſſively; but the Phyſitian orders all his dyet; for if hee
+<pb n="50" facs="tcp:123232:28"/>ſhould have his fill, it would kill him. A full body and a full ſtomack would increaſe the humour: So the Lord is a marvelous skilfull Phyſitian: we have proud hearts and would have dainties; and if we ſhould have riches as we would, God ſhould loſe his honour which now he hath by us being kept under hatches; therefore the Lord dyets us. Di<g ref="char:EOLhyphen"/>vers creatures are kept in divers things; Cherries are kept in Sugar, but Beefe is kept in ſalt pickell, and not in ſugar, for otherwiſe it would ſtinke. Nothing would ſerve ſome if the Lord ſhould not dyet them, but they would be as proud and as ſaucie as ever they could; therefore the Lord is compelled to dyet them: Thus we ſhould be con<g ref="char:EOLhyphen"/>tent with the leaſt pittance that the Lord ſees fit<g ref="char:EOLhyphen"/>ting for us; and he that is thus, the Lord will give him enough for his baites in this pilgrimage. And thus much for this Petition.</p>
+            </div>
+            <div type="part">
+               <head>And forgive us our treſpaſſes, &amp;c.</head>
+               <p>THis is the fifth Petition touching the good of man.</p>
+               <p>There are three Petitions concerning God, and three concerning us, this life and a better; the firſt we have handled; and thoſe that concern our ſpi<g ref="char:EOLhyphen"/>rituall being follow:</p>
+               <p>Firſt, for the order.</p>
+               <p>Secondly, the ſenſe and meaning of the words.</p>
+               <p>Thirdly, the frame of the heart in putting up this Petition.</p>
+               <pb n="51" facs="tcp:123232:28"/>
+               <p>Firſt, for the order; why it is thus placed? juſti<g ref="char:EOLhyphen"/>fication before ſanctification?<note place="margin">Reaſon.</note> The reaſon is, be<g ref="char:EOLhyphen"/>cauſe ſanctification flowes from juſtification; be<g ref="char:EOLhyphen"/>ing juſtified we are ſanctified; firſt we are acquit<g ref="char:EOLhyphen"/>ted of our ſins whereof we ſtand guilty before him, and then he ſanctifies us; firſt this, then the other; the other are the ſprigs, and this the main branch; we beg for faith, &amp;c. but they are included in this.</p>
+               <p>Secondy, for the ſenſe of the words.</p>
+               <p>Firſt, here is the Petition, <hi>Forgive us our treſpaſſes.</hi>
+               </p>
+               <p>Secondly, the Reaſon, <hi>As we forgive others,</hi> or, <hi>For we forgive others that treſpaſſe againſt us,</hi> ſo Lord forgive thou us; this is the argument whereby we win the favour of the Lord.</p>
+               <p>
+                  <hi>What is meant by debts?</hi>
+                  <note place="margin">Queſt.</note>
+               </p>
+               <p>By debts are meant all ſinnes,<note place="margin">Anſw.</note> all failing of all kindes, of omiſſion or commiſſion; now they are called debts, becauſe we owe all obedience to God, to love him above all, and our neighbours as our ſelves; and theſe being the articles of agreement, the ſleighting and neglect of this brings us into debt with God.</p>
+               <p>For firſt, we are bound to theſe.</p>
+               <p>Secondly, by breaking theſe we deſerve the puniſhment due to the breach of it: now when we omit any thing, we forfeit and are caſt behinde hand.</p>
+               <p>And thirdly, wee are lyable to the execution of the puniſhment due to us in the breach of this;
+<pb n="52" facs="tcp:123232:29"/>thus ſins are debts; and debts ſinnes, of omiſſion or commiſſion.</p>
+               <p>
+                  <hi>What is it to forgive?</hi>
+               </p>
+               <p>To forgive is this:<note place="margin">Queſt.</note> we beg that the Lord would be pleaſed not to take advantage of us becauſe of our debts;<note place="margin">Anſw.</note> nor yet to proceed in the rigour of this Law, to do that it requires: Now, our ſins require we ſhould be condemned and executed. A malefa<g ref="char:EOLhyphen"/>ctors forfeiting his bond is caſt in his cauſe, and then caſt into the priſon, and execution ſued out for the ſatisfaction of this debt: now we beg of the Lord, that he would not condemn us in the Court of conſcience, nor execute his juſtice on us; this is to forgive, and this proceeds from mercy.</p>
+               <p>
+                  <hi>But how can God do thus? will this ſtand with the juſtice of God,</hi>
+                  <note place="margin">Queſt.</note> 
+                  <hi>not to be ſatisfied for our faults, to par<g ref="char:EOLhyphen"/>don without ſatisfaction?</hi>
+               </p>
+               <p>No;<note place="margin">Anſw.</note> but though the party do not ſatisfie, yet if the ſurety do, it is ſufficient; ſo though he doth for<g ref="char:EOLhyphen"/>give us, yet he looks for it at the ſureties hand; as the creditor doth not require the debt at the deb<g ref="char:EOLhyphen"/>tors hand, but at his hand that is bound to make ſa<g ref="char:EOLhyphen"/>tisfaction for the debt; ſo the Lord doth not require ſatisfaction of us as he might, to exact the utmoſt farthing: <hi>becauſe thou ſinneſt thou ſhalt die,</hi> the LORD will not exact this of us, but he requires this ſatisfaction of the LORD JESUS; ſo that GOD the Father is ſatisfied, though not by us; mercy to me, and juſtice to CHRIST; mercy on my part, and juſtice on CHRISTS part. Thus we ſee what it is to forgive us; that is, that the LORD
+<pb n="53" facs="tcp:123232:29"/>would not areſt us, but the ſurety; that he would not exact of us, but take all of CHRIST.</p>
+               <p>
+                  <hi>Whether are a mans ſins forgiven at once,</hi>
+                  <note place="margin">Queſt.</note> 
+                  <hi>or at ſun<g ref="char:EOLhyphen"/>dry times?</hi>
+               </p>
+               <p>At the firſt time;<note place="margin">Anſw.</note> when a man believes in the LORD JESUS CHRIST, at that time all his ſins paſt, preſent, or to come, are remitted. The ſins he commits after beleeving, or in beleeving, or before beleeving, are all pardoned: Juſtification doth not increaſe or decreaſe, but ſinne it is pardoned at the firſt act of beleeving; Though ſanctification may have degrees, one man may be more ſanctified then another, but this hath none; but he is fully juſtified, and all his ſins paſt, preſent, or to come, are pardoned to him in CHRIST; all phraſes in Scripture implie thus much. <hi>Jer.</hi> 32. <hi>I will pardon their ſins, and remember them no more.</hi> Ezek. 38. <hi>I will blot them out of my remembrance.</hi>
+               </p>
+               <p>Now the Argument is this: I will conclude in di<g ref="char:EOLhyphen"/>vers Propoſitions.</p>
+               <p>Firſt,<note place="margin">Argum.</note> our Saviour by once ſuffering ſuffered for the ſins of the Elect, paſt, preſent, and to come; the infinite wrath of GOD the Father fell on him for my ſins; now this wrath is all one in him: and, being all one and infinite, and our Saviour ſuffering this whole and infinite wrath of GOD the Father, if he had ſuffered for 10000. worlds he could have ſuffered no more: <hi>Gods</hi> wrath could not be but infi<g ref="char:EOLhyphen"/>nite, ſo were his ſufferings; he might have applyed his ſuffering to many thouſands more if he would, and yet have ſuffered no more: <hi>Adam</hi>'s ſinne was
+<pb n="54" facs="tcp:123232:30"/>enough to infect a thouſand worlds; and our Savi<g ref="char:EOLhyphen"/>ours merits are ſufficient for a thouſands worlds.</p>
+               <p>Secondly, thoſe ſufferings that he ſuffered for my ſinnes paſt are ſufficient for him to ſuf<g ref="char:EOLhyphen"/>fer and ſatisfie for my ſinnes preſent and to come.</p>
+               <p>Thirdly, the ſinner ſtands juſtified not for any thing in himſelfe, but by the mercies of the LORD JESUS CHRIST. Now then gather up all, and the thing is cleare: if our Saviour ſuffered for all ſins, and this, being infinite, is ſufficient to pacifie all his wrath due to my ſins paſt, preſent, or to come. And if a man is not juſtified of, or by any thing of his own, but from CHRIST; from this I argue, by what death is my ſin remitted? by the death of CHRIST; and have not I the whole death of our our Saviour to ſatisfie? Yes, for that death that ſuffered for my ſins paſt, ſuffered for my ſins pre<g ref="char:EOLhyphen"/>ſent or to come; the death CHRIST ſuffered for all ſins. Now this death of CHRIST is applyed to the ſoul at the firſt act of beleeving in the LORD CHRIST, therefore my ſinnes paſt, preſent, or to come, are remitted at the firſt act of beleeving.</p>
+               <p>That remiſſion of ſins that leaves no condemna<g ref="char:EOLhyphen"/>tion to the party offending is the remiſſion of all ſinnes; for, if there were any ſin remaining, a man is ſtill in the ſtate of condemnation; but juſtifica<g ref="char:EOLhyphen"/>tion leaves no condemnation. <hi>Rom.</hi> 8.1. <hi>There is no condemnation to them that are in Chriſt.</hi>
+                  <note place="margin">Argn. <hi>2.</hi>
+                  </note> Thus it is evident, there is no condemnation to thoſe that are in CHRIST, therefore there is full remiſſion of all ſins paſt, preſent, or to come, to the ſoul at the firſt act of beleeving.</p>
+               <pb n="55" facs="tcp:123232:30"/>
+               <p>If the remiſſion of all ſinnes be not at once,<note place="margin">Arg. <hi>3.</hi>
+                  </note> it is either becauſe my faith cannot lay hold on it, or becauſe there are ſome hinderances; but a man by the hand of faith can lay hold on all the merits of CHRIST; the Word can reveale all; the Sacra<g ref="char:EOLhyphen"/>ments ſeale and confirm the pardon of all; and then there is no inconvenience, for it makes the ſoul more carefull of a command. <hi>Pſal.</hi> 130. <hi>If thou ſhouldeſt enter into judgement with us, who were able to abide it? but there is mercy with thee, that thou mayeſt be feared.</hi> Forgiveneſſe makes a man yeeld faithfull obedience; then it is cleare, that the for<g ref="char:EOLhyphen"/>giveneſſe of all ſinnes, paſt, preſent, or to come, is made to the ſoul at once, at the firſt act of be<g ref="char:EOLhyphen"/>leeving.</p>
+               <p>Firſt, becauſe CHRIST dyed for all, and that is all applyed at once.</p>
+               <p>Secondly, juſtification leaves a man without condemnation.</p>
+               <p>Thirdly, there are no hinderances; for my faith is able to lay hold on all the merits of CHRIST, and the Sacraments able to confirm all; therefore all the ſinnes of the Elect, whether paſt or pre<g ref="char:EOLhyphen"/>ſent, or to come, are pardoned at once in CHRIST.</p>
+               <p>
+                  <hi>But then why do we pray for daily forgiveneſſe of ſins? It ſeems needleſſe thus to do;</hi>
+                  <note place="margin">Queſt.</note> 
+                  <hi>if they be pardon<g ref="char:EOLhyphen"/>ed already, what need we pray daily for the forgive<g ref="char:EOLhyphen"/>neſſe of them? This is one of</hi> Bellarmines <hi>chief holds. But I anſwer.</hi>
+               </p>
+               <p>Firſt, if a man do beleeve,<note place="margin">Anſw.</note> yet he prayeth for more faith.</p>
+               <pb n="56" facs="tcp:123232:31"/>
+               <p>Secondly, we intreat the Lord that he would be pleaſed to renew this repentance, write over and renew this our evidence of the remiſſion of our ſinnes, and more and more confirm it to our ſelves; this a man doth though he have faith.</p>
+               <p>Thirdly, that he would be pleaſed to continue this his evidence.</p>
+               <p>Fourthly, that he would make it increaſe and be more ſtrong. This a faithfull man craves; Lord, ſaith the ſoul, that my ſinnes may not only be par<g ref="char:EOLhyphen"/>doned, and the evidence of it ſealed to my ſoul but that the evidence may be more and more increaſed.</p>
+               <p>
+                  <hi>Whether doth this act of beleeving leave any frame,</hi>
+                  <note place="margin">Queſt.</note> 
+                  <hi>or put any diſpoſition into the ſoul.</hi>
+               </p>
+               <p>Firſt,<note place="margin">Anſw.</note> our juſtification, which we call forgive<g ref="char:EOLhyphen"/>neſſe, findes nothing in us, or any thing done by us, by which we come to be juſtified; when we are ſaid to be juſtified by faith, or are not ſaid to be juſtified for faith, (that is popery) but by faith we lay hold on Chriſt, by whoſe merits we are juſtified; as a man is ſaid to live by his hands, not that he eates them; but by the labour of his hands he gets mo<g ref="char:EOLhyphen"/>ney, which buyes his meat which nouriſheth him. So a mans ſins are not forgiven by vertue of belee<g ref="char:EOLhyphen"/>ving, but only thus; becauſe faith as an hand laies hold on this; as a man gets a prey by his hand, ſo we get this prey by the hand of faith; faith doth not make a man juſt before God, for God might con<g ref="char:EOLhyphen"/>demne us for the imperfection and weakneſſe of our faith, but it layes hold on him who juſtifies.</p>
+               <pb n="57" facs="tcp:123232:31"/>
+               <p>Secondly, forgiveneſſe or juſtification leaves no gracious frame upon the ſoul, but it is only a legall and judicial forgiving of a man, a pronouncing of the ſoul believing acquitted. As a man that is arreſt<g ref="char:EOLhyphen"/>ed, the ſurety paying all the debt, the law is fru<g ref="char:EOLhyphen"/>ſtrate, and hath nothing againſt that man; and he is pronounced acquitted by the law; but this acquit<g ref="char:EOLhyphen"/>ting doth not make a man any honeſter. That of the <hi>Proverbs, He that juſtifies the wicked, and he that condemneth the righteous, they both are abomination to the Lord.</hi> Not to make a man honeſter then he was, but to account him ſo, and juſtifie him when he is not. You ſee then, this leaves no ſtamp upon the ſoul, this cuts the throat of many a mans comforts, here is the maine difference between juſtification and ſanctification; juſtification is not for any thing in a mans ſelf, neither leaves any ſtamp; but ſancti<g ref="char:EOLhyphen"/>fication proceeds from ſome ability in the ſoul, and leaves him holy.</p>
+               <p>Thirdly, though the act of beleeving doth not put grace into the ſoul: yet wherever this is there will be another work, and bring grace into the ſoul.</p>
+            </div>
+            <div type="part">
+               <head>For we forgive others.</head>
+               <p>THis is made an argument to prevaile with God, we beſeech God to forgive us, becauſe we for<g ref="char:EOLhyphen"/>give others; as if we ſhould ſay, if we forgive others, forgive thou us; but we forgive others, there<g ref="char:EOLhyphen"/>fore Lord forgive us: as though firſt we could for<g ref="char:EOLhyphen"/>give
+<pb n="58" facs="tcp:123232:32"/>others before God forgive us. Hence the que<g ref="char:EOLhyphen"/>ſtion drawes on; namely,</p>
+               <p>
+                  <hi>Whether is the ſoule able to forgive treſpaſſes to others before the Lord forgives its treſpaſes?</hi>
+                  <note place="margin">Queſt.</note>
+               </p>
+               <p>No, our forgiving others doth not goe before our owne forgiveneſſe;<note place="margin">Anſw.</note> God muſt firſt forgive us before we can forgive others, becauſe it is a work of grace to doe this as God requires, and it comes from a gracious diſpoſition of ſoule which God muſt put into us before we can do it. But now ſan<g ref="char:EOLhyphen"/>ctification follows juſtification, as a man ſhould ſay, a tree bringsforth fruit from the ſap in the root.</p>
+               <p>
+                  <hi>But this is uſed as a cauſe,</hi>
+                  <note place="margin">Queſt.</note> 
+                  <hi>for we forgive others; becauſe we forgive others, therfore forgive us, it ſeems then to be a cauſe of our juſtification.</hi>
+               </p>
+               <p>No,<note place="margin">Anſw.</note> it is a fruit and effect to make way for the conveyance of the aſſurance of it; it makes us not to be juſt, but dedares us to be juſt. Every reaſon propounded by the word <hi>becauſe,</hi> doth not imply a cauſe; as I prove fire is fire thus. That which burnes is fire, but that burnes therefore it is fire; now burning is not the cauſe of fire, but an effect of it; not a cauſe, for firſt there muſt be fire before it can burne; ſo it is a tree becauſe it hath Apples; now Apples are not the cauſe of the Tree, but the Tree of the Fruit.</p>
+               <p>
+                  <hi>What is it to forgive the treſpaſſes of our fellow-bre<g ref="char:EOLhyphen"/>thren, and how farre may it be done?</hi>
+               </p>
+               <p>In the treſpaſſes of a brother three things are conſiderable.</p>
+               <p>Firſt, the ſinne it ſelfe.</p>
+               <pb n="59" facs="tcp:123232:32"/>
+               <p>Secondly, the guilt of that ſinne.</p>
+               <p>Thirdly, the puniſhment due to that ſinne.</p>
+               <p>Firſt, concerning the ſinne: In guilt wee muſt know two things, wherein is the Anſwer.</p>
+               <p>Firſt, we muſt know, that to forgive properly we cannot; it cannot be done by us: for who can for<g ref="char:EOLhyphen"/>give ſinnes but God onely? it is one of Gods prero<g ref="char:EOLhyphen"/>gatives to forgive ſinnes, and that no creature can doe.</p>
+               <p>Secondly, as the guilt hath a reſpect to God, ſo it hath a reſpect to us; for as he is injured, ſo are we: when a man ſteales, it is not onely a wrong to the Law of God, but alſo a wrong to me: So farre as the ſinne doth reſpect God, he pardoneth it; and as it concernes me, I forgive him. And this is done when the heart is as willingly content to doe all the good to a brother, as though he had never ſinned againſt him. We ſay we forgive him, but not for<g ref="char:EOLhyphen"/>get him, this is not to forgive; but between whom and me there is nothing to ſtop me, that is to for<g ref="char:EOLhyphen"/>give him; onely remember this that a man doth ſinne in ſome kinde; ſo that the Lord doth not re<g ref="char:EOLhyphen"/>quire that a man ſhould forgive him: As if a man that flatters me to my face and back bites me, I am not bound to truſt him againe: He that beares fire in one hand, and water in another, if he ſinne againſt me once, God forgive him: but if he ſinne againſt me the ſecond time, and I forgive him, God for<g ref="char:EOLhyphen"/>give him and me. When a man cheates me I will never truſt him againe till I ſee good; and yet I for<g ref="char:EOLhyphen"/>give him when I am as willing to doe him good, as
+<pb n="60" facs="tcp:123232:33"/>though he had never offended me; and withall in<g ref="char:EOLhyphen"/>treat the Lord to pardon him, if he hath a lot in Chriſt ſeek for the pardon of thoſe ſinnes whereby he hath done us wrong. This our Saviour did, <hi>Fa<g ref="char:EOLhyphen"/>ther forgive them, they know not what they doe:</hi> So alſo <hi>Stephen, Acts</hi> 7.12. thus we ſhould doe ſo farre as it concernes us.</p>
+               <p>
+                  <hi>Whether is a man bound to forgive puniſhment to another?</hi>
+                  <note place="margin">Queſt.</note> 
+                  <hi>as when one hath ſtolne any thing from us, ſhould we not follow the Law on him? how farre muſt a man goe in this caſe in taking puniſhment on ſuch an one offending?</hi>
+               </p>
+               <p>A man may,<note place="margin">Anſw.</note> nay it may be ſo that a man is bound not to forgive it, but to puniſh it, and a man ſhould ſinne deeply in the neglect of it. If one hath mur<g ref="char:EOLhyphen"/>thered another, a man is bound to follow the Law on him, and to give him the puniſhment due to the fact.</p>
+               <p>
+                  <hi>How farre may a man goe in this caſe?</hi>
+                  <note place="margin">Queſt.</note>
+               </p>
+               <p>It appeares in theſe particulars:</p>
+               <p>Firſt,<note place="margin">Anſw.</note> when, all things conſidered, in all a man ſees it may doe good, then a man is bound to give puniſhment. When there is nothing but a Bride<g ref="char:EOLhyphen"/>well will doe a ſervant good, give it him. When a childe is ſtubborn, give him correction and ſpare him not, it is as good as his meat: If a wretch belch out his malice; if a man can reforme him by puniſh<g ref="char:EOLhyphen"/>ment, give it him: for who knowes but it may be the beſt phyſick that ever he had? and to let him go unpuniſhed in ſuch a caſe a man is guilty of his ſinne, becauſe hee might have reformed him by this meanes.</p>
+               <pb n="61" facs="tcp:123232:33"/>
+               <p>Secondly, if this be a way and meanes to binde a mans hands, and to hinder him from the practice of ſome ſinne: As if a perſecutor intends to perſecute another, if a man have a ſuit of Law againſt him, he is bound to caſt him into priſon, for it keeps him from perſecuting the Saints of the LORD, and ſo from ſinning deeply. It is a work of mercy to take a knife from a mad man: ſo to bind ſuch a mans hands that doth ſo. If God put forth an opportu<g ref="char:EOLhyphen"/>nity into a mans hand, he is bound to take the Law, and it is mercy to him thus to doe.</p>
+               <p>Thirdly, when a man cannot otherwiſe main<g ref="char:EOLhyphen"/>taine his owne honour, or life, or ſome other parti<g ref="char:EOLhyphen"/>cular good, for the taking off of his own wrong a man is bound in juſtice to take puniſhment on ſuch a one, as thus; If he ſhall raiſe a falſe report on a man, it is not a work of tyranny but a work of mercy, he ought to right his own wrong that is done unto him by puniſhment; when it cannot otherwiſe be maintained we are bound to take this courſe; for why? mine own honor, life and eſtate is to be pre<g ref="char:EOLhyphen"/>ferred before others.</p>
+               <p>Fourthly, when this courſe being juſt will main<g ref="char:EOLhyphen"/>taine the goodneſſe of a mans profeſſion and Gods glory, this ſhould be done: when a mans profeſſion lyes at the ſtake, a man is not bound to be mealie<g ref="char:EOLhyphen"/>mouthed, but to make thoſe black-mouthed wret<g ref="char:EOLhyphen"/>ches known to others, that they may not dare to bring a ſcandall upon the glorious Goſpel of Chriſt, nor on the profeſſours thereof. Thus a man muſt doe, and yet forgive a man for all this, if his good
+<pb n="62" facs="tcp:123232:34"/>or mine, or the profeſſion of the Goſpel may be furthered hereby, this ſhould be. And thus a man may goe to law in theſe caſes, and the like.</p>
+               <p>Now we come to the force of the Argument.</p>
+               <p>
+                  <hi>How is this an Argument to prevaile with</hi> GOD <hi>to forgive us,</hi>
+                  <note place="margin">Queſt.</note> 
+                  <hi>becauſe wee forgive others? where lyes the force of the Argument? what vertue is there in this?</hi>
+               </p>
+               <p>It lyes in 3. particulars; and it is a ſpeciall meanes to obtain mercy,<note place="margin">Anſw.</note> Lord I forgive others, therefore forgive thou me.</p>
+               <p>Firſt, all the mercie I have, it is not firſtly in my ſelfe, it is but a river and ſpring comming from the Sea, but mercie is firſtly in thy ſelfe, the fountaine and Sea of mercy is in thee: Now Lord if I have but ſome bowels of mercy, and ſome drops of that Ocean of mercy, and yet can forgive others; much more then thou the fountaine of mercy canſt for<g ref="char:EOLhyphen"/>give me. When the two ſervants fell out, the one pulled the other by the throat, and ſaid, <hi>Pay mee that thou oweſt me;</hi> now when the Maſter of that ſervant heard of it, he ſaid, <hi>Oh thou wretch doſt thou deale thus with him, when I deale ſo favourably with thee;</hi> and if a ſinner muſt forgive his fellow brother ſeventy ſeven times, how much more the Lord the God of mercy? if he that hath but ſome mercie received from the fountaine, much more the Lord the fountaine it ſelfe.</p>
+               <p>Secondly, as we have not from our ſelves, but from God; ſo alſo that we have is mixt with a great deale of ſpleene. Though ſome compaſſion yet
+<pb n="63" facs="tcp:123232:34"/>mingled with a great deale of envie; though ſome mercy, yet mingled with a great deale of cruelty; and a great deale of darkneſſe with this little ſtarre-light: but the Lord hath all love without any hatred; all mercy without any cruelty; there is no hinde<g ref="char:EOLhyphen"/>rance in the Lord to hinder him. Now the ſoule ſaith, Lord, if I that have a great deale of malice can forgive my brethren, then how much more thou that haſt all mercy and no ſpleen (if men humble their ſoules before thee) wilt forgive?</p>
+               <p>Thirdly, that mercy that is in us it is but little, but it is infinite in the Lord; what we can doe is but the firſt fruit, a drop, a graine, a muſtard-ſeed, but abundant in the Lord. Then the ſoule ſaith, Lord, thou art boundleſſe and bottomleſſe in mer<g ref="char:EOLhyphen"/>cie, how much more wilt thou forgive? True, LORD, the talents and debt whereby we are in<g ref="char:EOLhyphen"/>gaged unto thee are many and great; but if wee poore creatures that have but from the Fountain, and that we have is mingled with a great deale of malice, and that but a drop, and yet can forgive; how much more thou that haſt all firſt from thy ſelfe, and purely without all mixture of envie, and in an infinite abundance? how much more canſt thou forgive whom thou wilt? therefore LORD forgive us, for we forgive others.</p>
+               <p>
+                  <hi>How ought the ſoule to be framed in putting up this Petition?</hi>
+                  <note place="margin">Queſt.</note>
+               </p>
+               <p>It appeares in foure particulars:<note place="margin">Anſw.</note>
+               </p>
+               <p>Firſt, the ſoule muſt ſee and acknowledge it ſelfe guilty of thoſe ſinnes that appeare in this life: wee
+<pb n="64" facs="tcp:123232:35"/>muſt ſee our ſelvs ſtand in need of forgivenes: now we cannot doe this till we ſee our ſelves faulty. He that owes nothing, what need he crave forgive<g ref="char:EOLhyphen"/>neſſe? So forgiveneſſe of ſinnes implyes that wee are guilty of ſinne and lyable to the puniſhment due to ſinne, <hi>They that confeſſe ſinne and forſake it ſhall finde mercy, pro.</hi> 28.14. firſt finde out thy ſins, then find <hi>Gods</hi> mercy, 1 <hi>Cor.</hi> 11. <hi>If we would judge our ſelves, we ſhould not be judged.</hi> He that would have GOD forgive him, muſt not forgive himſelfe; if we judge our ſelves, GOD will not judge us. As a Malefactor that ſticks to his owne innocencie, and will not acknowledge any guilt, in vaine hee de<g ref="char:EOLhyphen"/>ſires to bee forgiven: So a ſinner or Malefactor before GODS Tribunall, if hee will not con<g ref="char:EOLhyphen"/>feſſe his ſinne, hee ſhall never finde mercie at the hand of the LORD. Therefore I cannot ſee how a Papiſt can beg this, when as hee thinkes he can ſatisfie GODS Juſtice himſelfe.</p>
+               <p>Secondly, we muſt labour to have the heart ſee its owne inabilitie to ſatisfie for ſinne, or to beare Gods indictment he ſhall paſſe upon the ſoule that is guilty. The ſoule acknowledgeth it ſelfe unable to anſwer one of a thouſand; <hi>Behold</hi> (ſaith the Pſalmiſt) <hi>Lord, if thou ſhouldeſt enter into judge<g ref="char:EOLhyphen"/>ment, who were able to abide it? but there is mercy with thee that thou mayſt be feared.</hi> Wee are Ban<g ref="char:EOLhyphen"/>kerupts, wee cannot anſwer the debt, nor beare the ſuit; if the debtor be able to anſwer the debt or pay the money, hee cares for no kindneſſe; the ſinner is the debtor, and, if hee can ſatisfie Gods
+<pb n="65" facs="tcp:123232:35"/>Juſtice, what need he care? If I can abide it, what need I crave favour? but when it is come to this, who can abide it; then the LORD will pardon whatſoever is amiſſe. Where-ever the ſinner goes he cannot avoid the ſuit; hee needs no purſevant to follow him, conſcience is arreſting, the Devill accuſing, therefore he falls down and cryes mercy, mercy to pardon the ſuit, the ſoule is not able to beare the ſuit. This the Church complaines of, <hi>Behold, our righteouſneſſe is as menſtruous cloath;</hi> and they, <hi>Ezek.</hi> 36.31. judge themſelves wor<g ref="char:EOLhyphen"/>thy to be condemned. Now in that I ſay for<g ref="char:EOLhyphen"/>give, I imply that I cannot ſatisfie for ſin my ſelfe.</p>
+               <p>Thirdly, we ſhould ſeeke to the free mercie of GOD and of his Grace for what wee need; wee ſhould acknowledge his free mercie. When the ſoule ſees there is mercie in GOD for him, then it is fitted to pray this petition; for ſhould I conceive GOD were ſevere, holy, juſt, &amp;c. though I renounce my ſinne, yet I could not ſeek him; God is not extreame and rigorous, but hee hath mercy in ſtore for thoſe that ſeeke him in truth and ſincerity: therefore we ſhould apprehend two things:</p>
+               <p>Firſt, that God deſires not to deale rigorouſ<g ref="char:EOLhyphen"/>ly; we ſhould perſwade our hearts, that God is de<g ref="char:EOLhyphen"/>ſirous to welcome our prayers, <hi>Exod.</hi> 34. <hi>The Lord is ready to ſuccour our infirmities.</hi> If we be in miſery, the Lord will abound in mercy, the phraſe is, mul<g ref="char:EOLhyphen"/>tiplying mercy; therefore the Apoſtle calls him the father of mercies, and the God of all compaſſions;
+<pb n="66" facs="tcp:123232:36"/>we have new vexations, he hath new compaſſions; nay, God hath more good then we can deſire, he performes more then he promiſeth; he is abundant in truth, above all that he hath revealed himſelf to be in his Word, <hi>Iſa.</hi> 55.7. <hi>Our God is mercifull and abundant in forgiveneſſe.</hi> He multiplies pardons, he hath pardons in ſtore, mercy to pardon any poore ſoul. But, (ſaith the ſoul) what my ſinnes commit<g ref="char:EOLhyphen"/>ted and continued in? marke what he adds, though you cannot comprehend it, yet he can conceive it: his thoughts of mercy are larger in giving, then ours in craving, <hi>Eph.</hi> 2. <hi>He is able to do above what we can think or aske.</hi> It was but a cold comfort <hi>Iſaac</hi> gave to <hi>Eſau,</hi> he had but one bleſſing; ſo if Gods mercies come to an end, it were but a poor comfort when the ſoul ſaith, Lord give me, and the Lord ſhould ſay, all is drawne dry. But there is enough in God to do us good. What availes it, if a father have a good heart to his child, if he hath not to give it what it aſkes, or ſtands in need of? but our heavenly Father abounds in goodneſſe.</p>
+               <p>Secondly, God, as he hath abundance of good, ſo he is free and ready to beſtow it, <hi>Eſa.</hi> 55.1. <hi>Ho, Every one that thirſteth, let him buy milke, and milke without money or price.</hi> We would be content to have wine, but we have no money to buy it, there<g ref="char:EOLhyphen"/>fore God adds, though you be not able to pay for it, yet take it. <hi>Mich.</hi> 7.18. <hi>Who is a God like our God? who pardons ſin, becauſe mercy pleaſeth him.</hi> The pardoning of our ſins is like the overthrowing of <hi>Pharaoh</hi> in the ſea. God doth it not becauſe we
+<pb n="67" facs="tcp:123232:36"/>pleaſe him, but becauſe his mercy pleaſeth him, he doth it freely.</p>
+               <p>Fourthly, we muſt be content to waite for his mercy that we ſtand in need of; we muſt both waite for it, and be confidently perſwaded of it, elſe we croſſe the tenure of forgiveneſſe, <hi>Heb.</hi> 11. <hi>God gives mercy to none but thoſe that waite for it.</hi> In that we aske pardon, we are reſolved to waite for it, for ſo much is implyed. A pardon in law is not authenti<g ref="char:EOLhyphen"/>call, untill it be ſealed; ſo God ſaith, he will par<g ref="char:EOLhyphen"/>don us, but this is not authenticall, untill we have ſet to our ſeale; he ſaith, he will give freely; we ſay, we will waite conſtantly; <hi>Pſal.</hi> 37.5. <hi>Commit thy waies to God, and he will care for thee.</hi> He that thus begs forgiveneſſe, ſhall undoubtedly obtaine it at the hand of the Lord,</p>
+            </div>
+            <div type="part">
+               <head>And leade us not into temptation.</head>
+               <p>THis is of ſanctification both begun here and ended in heaven; ſanctification frees from the power of ſin, glorification frees from the preſence of ſinne; ſanctification kills ſinne, glorification bu<g ref="char:EOLhyphen"/>ries ſin.</p>
+               <p>Firſt, for the order; ſanctification flowes from juſtification. When ſin is pardoned, we have the Spi<g ref="char:EOLhyphen"/>rit of Chriſt, which conveys all to us; firſt juſtified, then ſanctified.</p>
+               <p>Secondly, for the ſenſe of the words, and here are two things.</p>
+               <pb n="68" facs="tcp:123232:37"/>
+               <p>Firſt, what God ſhould not doe, <hi>Leade us not in<g ref="char:EOLhyphen"/>to temptation.</hi>
+               </p>
+               <p>Secondly, what he ſhould doe, <hi>deliver us from evill.</hi>
+               </p>
+               <p>
+                  <hi>What is meant by temptation?</hi>
+                  <note place="margin">Queſt.</note>
+               </p>
+               <p>A tryall,<note place="margin">Anſw.</note> or an aſſault, whereby a mans ſtrength is tried: now they are double.</p>
+               <p>Firſt, the deliverance from evill.</p>
+               <p>Secondly, to prove the ſoundneſſe of grace.</p>
+               <p>The firſt is eſpecially intended, and by it are under<g ref="char:EOLhyphen"/>ſtood all the aſſaults of the ſoul, by ſin, Satan, or the world, whereby our faith may be ſhaken, or we withdrawn from God to evill; ſometimes there are good temptations, of proving or expreſſing our grace. Theſe, in ſome ſenſe, may have place in this Petition: God tries us in this manner, and we pray him, that he would trie us no more then we are able to beare.</p>
+               <p>
+                  <hi>What is it to be led into temptation?</hi>
+                  <note place="margin">Queſt.</note>
+               </p>
+               <p>It appeares in three things.<note place="margin">Anſw.</note>
+               </p>
+               <p>Firſt, when temptations purſue us.</p>
+               <p>Secondly, when they doe foile us in aſſaulting of us.</p>
+               <p>Thirdly, when temptation doth totally van<g ref="char:EOLhyphen"/>quiſh us.</p>
+               <p>Now we pray in this Petition, that temptations may not purſue us; purſuing us, that they may not foile us; and though we be foiled, yet that we may recover our ſelves. We deſire that God would not let them beſiege us; if they doe, yet not foile us; and if they do, yet that we may recover our ſelves after our foile.</p>
+               <pb n="69" facs="tcp:123232:37"/>
+               <p>
+                  <hi>Can God lead into temptation?</hi>
+                  <note place="margin">Queſt.</note>
+               </p>
+               <p>The Apoſtle explaines it,<note place="margin">Anſw.</note> 
+                  <hi>Jam.</hi> 13. <hi>God cannot tempt to evill.</hi> He that is goodneſſe it ſelfe cannot provoke a man to ſin. The Lord doth not put ma<g ref="char:EOLhyphen"/>lice into any mans heart, God cannot properly be the cauſe of drawing a man into ſinne; there are tryals of proofe: The Lord may try his, as he did <hi>Abraham, Gen.</hi> 22.1. A man doth not hurt his ar<g ref="char:EOLhyphen"/>mour if it be good when as he proves it: So God intends no evill to a man when he thus deals with him. Some adde this word, <hi>ſuffer us not to be led;</hi> but that is ſilly, ſince God tempts no man to ſinne.</p>
+               <p>
+                  <hi>What needs this Prayer?</hi>
+                  <note place="margin">Queſt.</note>
+               </p>
+               <p>God may doe it:<note place="margin">Anſw.</note> ſin and all other temptations have a double reſpect.</p>
+               <p>Firſt, evils are totally and profeſſedly oppoſite to the Law of God.</p>
+               <p>Secondly, ſinnes go under the name of puniſh<g ref="char:EOLhyphen"/>ments, ſometimes God puniſheth one ſinne with another: now, as ſin hath reference to the Law of God, he is not the cauſe of it; but ſo far as ſin is a puniſhment, God may be the author of it: We pray then, that God by a ſinfull diſtemper would not plague us.</p>
+               <p>
+                  <hi>In what manner doth God leade us into temp<g ref="char:EOLhyphen"/>tation?</hi>
+                  <note place="margin">Queſt.</note>
+               </p>
+               <p>He doth it three waies.<note place="margin">Anſw.</note>
+               </p>
+               <p>Firſt, when the Lord withdraws not thoſe nets that are laid for us; when God removes not thoſe ſtumbling-blocks that are caſt before us: Nay, God
+<pb n="70" facs="tcp:123232:38"/>may put a temptation before us: Thus a maſter may lay a baite for his ſervant, by laying money in a corner to trie his truth: Now it is lawfull for a man thus to leave his money, to diſcerne whether his ſervant be faithfull or no, he deſires not that he ſhould ſteale, but that he may trie his fidelity; ſo God juſtly ſuggeſts occaſions; there muſt be he<g ref="char:EOLhyphen"/>reſies for the triall of Gods ſervants; God ſends occaſions of provocations, for their tryall God raines ſnares, <hi>Pſal.</hi> 11.6. <hi>They that pitch their nets firſt let it fall, and then ſet it up.</hi> This is to raine ſnares; the favour of God is but a baite to a wick<g ref="char:EOLhyphen"/>ed man; his poſperitie is but his ruine. It is not with God to deale ſo, becauſe wicked men deſire it; ſo <hi>Judas</hi> would faine have gotten ſomwhat by the ointment; now it is juſt with God to ſend the <hi>Pha<g ref="char:EOLhyphen"/>riſees</hi> to give him thirty pence, and ruine too; now his minde is pleaſed, he hath thirty pence, and dam<g ref="char:EOLhyphen"/>nation too.</p>
+               <p>Secondly, as God layes occaſions, ſo he lets ſin and Satan looſe; a mans heart would be hanker<g ref="char:EOLhyphen"/>ing, now God gives him up; take him ſin and Sa<g ref="char:EOLhyphen"/>tan, let him have field-roome, 1 <hi>King.</hi> 22.22. <hi>Ahab</hi> would faine go to warre, it was a thing not allow<g ref="char:EOLhyphen"/>ed, but he deſired it; therefore God ſends the De<g ref="char:EOLhyphen"/>vill; <hi>God</hi> askes, who will prevaile over <hi>Ahab?</hi> the Devill ſaith, I will go: Then God ſaith, go and do it. <hi>Judg.</hi> 9.23. <hi>Abimelech</hi> and the men of <hi>Sechen</hi> did very ill, then God ſent an evill ſpirit, that is, he he let looſe the ſpirit of contention, and they de<g ref="char:EOLhyphen"/>ſtroyed him, and he laboured to deſtroy them: So
+<pb n="71" facs="tcp:123232:38"/>God, <hi>Rom.</hi> 1. is ſaid to give them up when they departed from the government of the truth. No, ſaith God, will you not be ruled by holineſſe? then take them uncleanneſſe. Many a man hath a wrath<g ref="char:EOLhyphen"/>full diſpoſition; take him envie, ſaith God; let him bring blood on others, and ſo ruine to himſelf. Thus God tooke away his Spirit from <hi>Saul,</hi> and gave him up to ſinfull diſtempers; of all plagues there is none like this.</p>
+               <p>Thirdly, GOD leaves a man to himſelfe; and lends him not the aſſiſtance of his grace; ſuf<g ref="char:EOLhyphen"/>fers him and Satan to grapple together. 2 <hi>Corin<g ref="char:EOLhyphen"/>thians,</hi> 32.31. Thus GOD dealt with <hi>Hezekiah;</hi> becauſe he had a leaſe of his life, he began to be proud, <hi>Therefore God left him to himſelfe, to trie what was in him.</hi> He though himſelfe a brave man, therefore GOD leaves him; as a father lets a child go when he will not be held, ſo ſaith GOD, ſee what thou canſt doe, trie thy own ſtrength. Now this leaving is in two paſſages.</p>
+               <p>Firſt, GOD lets in the truth of his Word, not ſo much as may ſerve for direction, but for provocation. That of the <hi>Romans</hi> is obſervable to this purpoſe, <hi>There is no tranſgreſſion where there is no Law;</hi> not that the Law brings ſinne, but provokes a mans heart, <hi>Rom.</hi> 7.5. the phra<g ref="char:EOLhyphen"/>ſes are ſtrange in the fifth verſe, <hi>The motions of ſinne which were by the Law:</hi> The Law moves a man to ſinne by oppoſing of it; ſaith the ſtub<g ref="char:EOLhyphen"/>borne heart, I will doe it becauſe you ſay ſo; many a man that hath lived civilly, and as a good
+<pb n="72" facs="tcp:123232:39"/>neighbour, &amp;c. and after the Law ſtirs him up to more exactneſſe he is more violent againſt good men. The Law meeting with a proud heart, he oppoſeth it, and would pluck the Law in peeces. All the while men joine ſides they are loved; but if GOD pleaſeth to humble them, then they flie out: There is nothing there that comes in anew ſaving GODS grace; but that malice that was there before, is now ſtirred; now there is no fault in a good man, that he is good: but ſinne taking occaſion by the command ſlew me, ſaith the Apoſtle. Looke as an ague that is pretty well over-paſt, it lies in the bones, and if he that hath it drinke cold water, it growes extream and hot by force of oppoſition: So that man that lay lurking before, the Word comes and it layes a man flat, and it ſlayes him utter<g ref="char:EOLhyphen"/>ly. <hi>verſ.</hi> 13. <hi>Sinne by the command became out of meaſure ſinfull.</hi> Looke, as it is with a damme, the damme ſtops, and the ſtreame ſwels by force of oppoſition; ſo the Law ſtops the ſtreame of ſinne and corruption, and now it growes ex<g ref="char:EOLhyphen"/>ceeding violent. Therefore they that have been under good meanes, and breake, are out of mea<g ref="char:EOLhyphen"/>ſure ſhameleſſe in their ſinfull proceedings; this damme that ſtops makes this ſin greater; thus the Law of GOD is a Law to a proud heart. The Law is not to blame, but the heart.</p>
+               <p>Secondly, the LORD will not ſuffer the ſoul to have the power and aſſiſtance of the Spirit which formerly he hath had; but lets ſin and it
+<pb n="73" facs="tcp:123232:39"/>grapple till he breake ſinne all to peeces. Many a time the LORD leaves the ſoule, and will not let it have that power that formerlie it had.</p>
+               <p>
+                  <hi>What, can a ſoul fall?</hi>
+                  <note place="margin">Queſt.</note>
+               </p>
+               <p>No. GOD takes not away his hand,<note place="margin">Anſw.</note> but yet he ſhall not feele it; as a man, if he ſtirre not the wheele it will not goe; his hand is on it all the while, but doth not ſtirre it, therefore it goes not: So GOD leaves a man to himſelfe, though for the while he doth not give him that force, whereby he may gaine-ſay a tempta<g ref="char:EOLhyphen"/>tion. This befell <hi>David, LORD,</hi>
+                  <note place="margin">Pſal. 57.</note> 
+                  <hi>take not thy holy Spirit from me;</hi> that is, when God would not helpe <hi>David,</hi> but let him make his part good with the temptations. I doubted not, but <hi>Da<g ref="char:EOLhyphen"/>vid</hi> had grace enough, if GOD would have quickened it in him. <hi>Hezekiah</hi> had wiſdome e<g ref="char:EOLhyphen"/>nough, but GOD left him. Thus the LORD is ſaid juſtly to leade a man into temptation. Now wee pray, that he would take away all ſnares, that he would not ſuffer the Word to provoke us, but to direct us, that we may not be left to our owne ſtrength, and that wee may overcome all our ſpirituall enemies.</p>
+            </div>
+            <div type="part">
+               <pb n="74" facs="tcp:123232:40"/>
+               <head>But deliver us from evill.</head>
+               <p>HEre obſerve, that though GOD would doe nothing againſt us, yet we are not a<g ref="char:EOLhyphen"/>ble to deliver our ſelves from our owne corrupt hearts.</p>
+               <p>
+                  <hi>What is meant by evill?</hi>
+                  <note place="margin">Queſt.</note>
+               </p>
+               <p>Not ſo much trouble,<note place="margin">Anſw.</note> or puniſhment, but ſinne. Now in ſin are three things.</p>
+               <p>Firſt, the breach of the Law.</p>
+               <p>Secondly, the guilt a man gets by this breach, and ſo is liable to this puniſhment.</p>
+               <p>Thirdly, the vigour of ſinne, whereby it rules over the ſoule: Now the former we pray againſt in the fifth Petition: becauſe we ſtand guilty of the breach of the Law, therefore wee pray, that God would not enter into Judgement with us. And thirdly wee pray here againſt the power of ſinne, and that is in three particulars; not only in regard of the guilt of it, but that the Lord would keep us from the power of it.</p>
+               <p>Firſt, ſinne would be a commander over the ſoule: It is the King, Satan is the Gaoler, it hath a Kingly Soveraigne Authority, and would rule over us; ſinne is often compared to a King, his ſervants are they to whom they obey. Sinne is a Maſter, at leaſt it would be; and is ſo in every naturall ſoule, and it would bee ſo in the god<g ref="char:EOLhyphen"/>ly.
+<pb n="75" facs="tcp:123232:40"/>
+                  <hi>The law of life</hi> (ſaith the Apoſtle) <hi>hath freed mee from the law of death, Rom.</hi> 8.2. Sinne gives Parliament-Lawes to the Soule and Edicts, and as the Centurion bade one ſervant goe and hee went; and another come, and he comes; ſo doth ſinne ſay; Pride ſaith, it is my pleaſure you ſhould be proud; therefore I will have you proud and ſnappiſh, &amp;c. Sayes anger, I will have you ſple<g ref="char:EOLhyphen"/>niticke and rage: Sayes the ſoule, then I will, and it ſhall be done. Thus ſinne ſets up it ſelfe as a ſupreame Soveraigne in the ſoule. Hence a proud heart ſaith, I will that I will, let GOD ſay what hee will; tell not mee of Lawes, it is my minde. It is your proud heart ſets you Lawes, and you yeeld to them. Now we pray that GOD, however ſinne bee in the Soule, yet that he would ſnub and curb it, that it may bee an underling in the Soule, and daily ſub<g ref="char:EOLhyphen"/>dued.</p>
+               <p>Secondly, as ſinne doth, and deſires to ſet up a maſter-like rule and a ſupreame Soveraign Lord like dominion: So ſinne carries the ſoule, and ſometimes ſeparates the ſoule from GOD; whereas the command of GOD ſhould be a guide to us, and take place in our hearts; this Re<g ref="char:EOLhyphen"/>bell, it takes up Armes, reſiſts, ſtands in defiance againſt the rule of the Spirit. Hence come all theſe phraſes, they forſook <hi>God;</hi> reſiſted GOD, and turned their backes to his commands. What? ſaith pride, ſhall I bee a ſlave, that the Word ſhould awe mee, and ſnub mee? I will never yeeld it while I
+<pb n="76" facs="tcp:123232:41"/>live, I will dye firſt. This is a Devill that drawes you from GOD, and will carry you to Hell, <hi>Rom.</hi> 7.23. that is the meaning of this place; Sinne carries a man captive, that when the ſoule ſees it ſelfe ſo ruled by him, a gracious heart would teare it ſelfe off if it could; but a natu<g ref="char:EOLhyphen"/>rall man is a ſlave to ſinne, ſinne gets head, and ſo the ſoule dares not affect any good in another, nor labour for it in it ſelfe.</p>
+               <p>Thirdly, ſinne leaves a kinde of blemiſh and ſtaine upon the ſoule, after the commiſſion of it. There is a kinde of jeering to the heart, and a cunning wrong of the ſoule; hence the Scripture calls it <hi>the excrement of naughtineſſe,</hi> &amp;c. though the act of ſinne be gone, yet there is a blemiſh on the Soule. <hi>Peter,</hi> after his denyall of CHRIST was averted from CHRIST: So a man after ſinne ſhall finde himſelfe dull to any good, and prone to any evill. This is the ſtaine of ſinne; when a mans arme is put out of joynt, beſides the fall there is a bruiſe: So after a man hath broken the Commandements of the LORD, the LORD unjoynts him; hee is more awake to any good then ever, <hi>Galath.</hi> 6. <hi>If any man bee unjoynted by ſinne:</hi> So that of the <hi>Romanes,</hi> they wound their owne ſoules: This ſinne doth; now theſe wee pray againſt, partly againſt the power of ſinne, partly againſt the authority of ſinne, partly againſt the ſtaine of ſinne.</p>
+               <pb n="77" facs="tcp:123232:41"/>
+               <p>
+                  <hi>But deliver us from evill.</hi>
+               </p>
+               <p>To deliver from evil implyes three things:</p>
+               <p>Firſt, wee pray that the LORD would pre<g ref="char:EOLhyphen"/>vent all thoſe occaſions, and ſtruglings, and di<g ref="char:EOLhyphen"/>ſtempers of ſinne that trouble us; theſe wee pray againſt, to wit, that hee would take off theſe diſtempers, whereby ſinne would lay ſiege againſt the Soule; that hee would remove thoſe things that would remove us from him. This is that wiſdome promiſeth, <hi>Prov.</hi> 6.21. <hi>Shee will keepe and walke with them that walke with her, and ſhee will keepe him from the way of the wicked woman.</hi> Sinne is like a Harlot, therefore the LORD is pleaſed to expreſſe it after that manner. Now it is the mercie of the LORD that he will turne our eyes from beholding of vanity; That there may not bee in us the violence of ſinne aſſaulting us: Wee pray alſo that wee may not come into the Battaile, if it bee poſſible; and that ſinne, or pollution, may not come in againſt us.</p>
+               <p>Secondly, that the LORD would aſſiſt us in the temptation, that the temptation may not prevaile.</p>
+               <p>It is a mercie not to bee tempted; but if we muſt bee, it is a great mercie not to bee over<g ref="char:EOLhyphen"/>come by temptation. If hee will not wholly prevent us by his Grace, yet that hee will aſſiſt us graciouſly in it. It is a mercie not to be aſ<g ref="char:EOLhyphen"/>ſaulted,
+<pb n="78" facs="tcp:123232:42"/>and though aſſaulted, yet that we may be aſſiſted.</p>
+               <p>Now this aſſiſtance of GOD is two-fold, ei<g ref="char:EOLhyphen"/>ther extraordinary, or mediate by the meanes: wee ſpeake not ſo much of the firſt, though that be true, but we crave both at the hand of the Lord.</p>
+               <p>Firſt, ſometimes wee crave for the extraor<g ref="char:EOLhyphen"/>dinary help and aſſiſtance of the LORD, to aſſiſt us either above meanes or in the meanes. Wee know the Lord in the time of the Martyrs ſuf<g ref="char:EOLhyphen"/>ferings did helpe wonderfully, their temptati<g ref="char:EOLhyphen"/>ons were grievous, and afflictions great, and yet the Lord did helpe them extraordiarily; God did let in abundance of ſweetneſſe. But we paſſe this, and come to the other.</p>
+               <p>Secondly, we pray eſpecially for ſuch meanes as may helpe us; and that appeares in foure par<g ref="char:EOLhyphen"/>ticulars:</p>
+               <p>Firſt, that the Lord would diſcover the ene<g ref="char:EOLhyphen"/>mie before hee comes; that hee would make knowne unto us the engines, and wiles, and depth of Satan, and the ſubtilty of our owne corrupt hearts, which are ready on every hand to ſurprize us; for to be ſurprized before wee are aware is great danger; therefore we pray that the Lord would give us the Spirit of Re<g ref="char:EOLhyphen"/>velation, that wee may take notice of the en<g ref="char:EOLhyphen"/>gines of Satan, that hee may be diſcovered to us; the diſcovery, wee know, of an evill is to prevent an evill: and, not foreſeeing, we cannot
+<pb n="79" facs="tcp:123232:42"/>prevent. He that ſees not an evill before it comes will bee overthrowne by it when it comes. Ma<g ref="char:EOLhyphen"/>ny a man periſheth by pride, and knowes not what hurts him. Thus corruption blowes up the ſoule. This the Lord promiſeth, <hi>Iſay</hi> 30.21. <hi>Thou ſhalt heare a word behinde thee, ſaying, This is the way.</hi> That GOD may keep a man from ſinne, hee ſends the Spirit of CHRIST to ſay, this is the way, walke in it. The Text ſaith, 2 <hi>Cor.</hi> 2. there, ſpeaking of the inceſtuous man, <hi>Wee are not ignorant of the methods of Satan to us,</hi> Mat. 20. When the great skirmiſh was to come, our Saviour forewarned <hi>Peter,</hi> and ſaith, <hi>I will ſmite the Shepherd, &amp;c.</hi> and ſaith, <hi>Watch and pray for the houre is come, &amp;c.</hi> Hee gives him this war<g ref="char:EOLhyphen"/>ning-peece. We pray then that God would make knowne to us the engines of ſinne and Satan before they come. Wee know it is a great helpe in warre to know the quarters and orders of e<g ref="char:EOLhyphen"/>nemies, that ſo a man may order his actions ac<g ref="char:EOLhyphen"/>cording thereunto. So wee muſt know where the Devill and our corruptions lye quartered, and what be the haunts of our wretched hearts, and ſo to order the help God hath put into our hands for the reſiſting of them.</p>
+               <p>Secondly, that the Lord, as it were, would intrench about us: If hee will not foretell us of the enemy, that, ſeeing ſinne, wee may pre<g ref="char:EOLhyphen"/>vent it, yet that hee would lay ſome heavie im<g ref="char:EOLhyphen"/>pediment upon us, &amp;c. and build ſome trench about us, that wee may not commit thoſe evils
+<pb n="80" facs="tcp:123232:43"/>wee are tempted unto: That though hee doe not reveale the policie of Satan, yet that hee would lay ſome ſnares, that wee may not com<g ref="char:EOLhyphen"/>mit that ſinne which otherwiſe wee would doe. And this is a marvellous mercie, <hi>Gen.</hi> 20.7. <hi>Abi<g ref="char:EOLhyphen"/>melech</hi> tooke <hi>Sarah,</hi> as though ſhee had beene <hi>Abrahams</hi> ſiſter, as hee himſelfe told him; and, no queſtion, hee had a purpoſe to take her to be his wife; but the Lord laid an impediment, the Lord kept <hi>Abimelech</hi> from <hi>Sarah,</hi> hee took off the edge of his deſire, and laid a barre be<g ref="char:EOLhyphen"/>tweene them: <hi>Hoſ.</hi> 2.6, 7. The Church was run<g ref="char:EOLhyphen"/>ning after her abominations; now how did the Lord prevent her? the Text ſaith, <hi>I will hedge thy wayes with thornes, and build a wall about thee.</hi> The Lovers were corruptions, and the follow<g ref="char:EOLhyphen"/>ing of them is the eager purſuit of them. Now hee hedges the wayes with Thornes; that is, hee layes deſperate afflictions on them, that ſhee had no liberty to ſinne, ſo that ſhee hath enough to doe to minde her owne miſeries. Sometimes a man is addicted to baſe company, and then the Lord layes ſickneſſe to impriſon him, and to keep him from ſinne: This is mercy.</p>
+               <p>Thirdly, the Lord puts armour and weapons on them to fight againſt their enemies that are oppoſite to his grace and children, <hi>Epheſ.</hi> 6. from the 10. to the 19. <hi>Be yee ſtrengthened in all might, putting on all ſpirituall abilities,</hi> 1 Cor. 2. <hi>to bee ſtrengthned in every good worke.</hi> God ſaith, hee covers the heads of his, 1 <hi>Pet.</hi> 1.5. God keepes
+<pb n="81" facs="tcp:123232:43"/>them by the power of his grace; God gives his the whole armour, the ſhield of faith, the breaſt<g ref="char:EOLhyphen"/>plate of righteouſneſſe, &amp;c. to quench the fiery darts of Satan, and to reſiſt him.</p>
+               <p>Fourthly, God gives a dominion over and conqueſt againſt all our enemies, and over all our victorious corruptions hee gives a happy iſſue and ſucceſſe: With the fight hee gives the iſſue with the victory, <hi>Revel.</hi> 1.6. Hee hath made us Kings, that is, hee hath given us a Kingly au<g ref="char:EOLhyphen"/>thority over all our corruptions; <hi>Rom.</hi> 6: 14. <hi>Sinne ſhall not have dominion over you; Pſal.</hi> 119.133. ſo <hi>David</hi> prayeth, <hi>Let no iniquity have dominion over mee.</hi> Thus the Lord aſſiſts his in trouble.</p>
+               <p>Thirdly, as wee pray that the Lord would prevent the occaſions of evill, and, if they come, to aſſiſt us in them; ſo laſtly, if wee be foiled and brought under by the temptations of Satan and our own corruptions, that the LORD would reſcue us from them that have had too much power over us, and too too much prevailed a<g ref="char:EOLhyphen"/>gainſt us. This wee know was the requeſt and deſire of the Prophet <hi>David, Pſal.</hi> 39. <hi>Reſtore mee to my former health before I goe away from hence and be no more ſeene:</hi> As who ſhould ſay, my baſe luſts are too ſtrong for mee; theſe hands were ſtout, but now feeble; therefore LORD give me that former ſtrength. His ſinnes were as ſickneſſe; <hi>Davids</hi> caſe was as when a man hath been ſicke, and after comes to get up his crummes; as though hee had ſaid, I knew the
+<pb n="82" facs="tcp:123232:44"/>time when I had a broken heart for my ſinne, but now hardened; therefore, O God, ſpare mee a little while before I goe hence, and bee no more ſeene, that I may recover my former courage, zeale, and ſtrength before I goe hence; <hi>Rom.</hi> 8.2. <hi>The Law of the Spirit of life in Chriſt hath made mee free from the Law of ſinne and death,</hi> Sinne makes Lawes: Wee then intreat the Lord, that hee would prevent corruption, that hee would aſſiſt us in temptation ordinarily and extraordinarily, that hee would diſcover the enemy before hee come; that hee would in<g ref="char:EOLhyphen"/>trench about us, and give us Armour and wea<g ref="char:EOLhyphen"/>pons to reſiſt. it; and give us dominion over our enemies; and that, if wee be overcome, hee would reſcue and recover us out of them: This is the ſum of this Petition.</p>
+               <p>
+                  <hi>Now wee come to the frame of the heart that we ſhould bring before God,</hi>
+                  <note place="margin">Queſt.</note> 
+                  <hi>that ſo wee may be fit to re<g ref="char:EOLhyphen"/>ceive the good we ſue for at the hand of God. Now wherein doth it appeare?</hi>
+               </p>
+               <p>The frame of heart and diſpoſition of Soule,<note place="margin">Anſw.</note> that beſt be-ſeemes us in the putting up of this Petition, appeares principally in four things.</p>
+               <p>Firſt, when wee deſire that the Lord would not let us bee drawne aſide, nor led into temp<g ref="char:EOLhyphen"/>tation, wee muſt labour to avoid all occaſions as may bee too ſtrong for us or like to prevaile over us. In vaine wee deſire to bee delivered from evill, when wee ruſh into evill and into temp<g ref="char:EOLhyphen"/>tations. Hee that ſhould take pitch into his hand,
+<pb n="83" facs="tcp:123232:44"/>and pray not to defiled; put fire into his boſome, and pray not to be burnt; it is a ſleighting of Gods mercy, and a provoking of God to wrath, rather then a begging of mercy. We would count it a madneſſe for a man to caſt himſelfe into the Sea, and deſire to be ſaved; to make our ſelves ſick that God may make us whole againe. It is no<g ref="char:EOLhyphen"/>thing elſe, but as we may ſay, to make God worke; ſo to runne into evill, and to pray to the Lord to deliver us from evill; it is provo<g ref="char:EOLhyphen"/>king and mocking of the Lord: the wiſe mans rule is here memorable, <hi>Prov.</hi> 23.23. <hi>If a man be given to his appetite, let him put his knife to his throat.</hi> If thou loveſt the wine, looke not upon it; a man that is given to his apetite, it is in vaine to pray againſt it, and yet nouriſh it: but thou muſt put thy knife to thy throat, abſtaine from that which may provoke it; for if we pleaſe our appetite, it will be a temptation to us. <hi>Pſal.</hi> 30. <hi>The promiſes and the providence of the Lord go to<g ref="char:EOLhyphen"/>gether.</hi> He will ſuccour us and relieve us, but it muſt be in the way of providence; we muſt be in the way: He that goes out of the way, and craves Gods aſſiſtance, ſhall never have it, but hales on evill on himſelfe, <hi>Matthew</hi> 10.18. our Saviour ſpeaking of offences, ſaith, <hi>If thy hand cauſe thee to offend, cut it off: and if thine eye cauſe thee to offend, pluck it out:</hi> That is, were thy ſinnes as neere to thee as thy right hand in re<g ref="char:EOLhyphen"/>gard of profit, or thy right eye, in regard of pleaſure, cut them off, pluck them out, fling
+<pb n="84" facs="tcp:123232:45"/>them away, rather then be foiled by them. In vaine wee crave the aſſiſtance of the Lord, and in the meane time lay blocks before us; it is pre<g ref="char:EOLhyphen"/>ſumption, therefore no marvell if many times the Lord leaves a man in the lurch, becauſe he doth not that he praies for. It is enough to cauſe the Lord to curſe us, when we do not avoid oc<g ref="char:EOLhyphen"/>caſions of evill: he that will not fall into the pit, let him not come neer the brinke of it; he that will not be ſnared by evill, let him not come neer the occaſions of evill.</p>
+               <p>Secondly, if we be weake of our ſelves, and cannot prevent the occaſions of evill; yet bee carefull to ſeeke all ſuch meanes as may be ſuc<g ref="char:EOLhyphen"/>courable and helpfull to us; if we cannot helpe it, but that theſe will ſurprize us, let us ſeeke the meanes that may ſuccour us in our need. The ſicke man that craves ſuccour of the Lord muſt uſe the meanes the Lord hath appointed; hap<g ref="char:EOLhyphen"/>pily thou findeſt temptations preſſing on in thy calling, thou canſt not avoid it; the more the occaſions are, the more ſeek for the meanes that may fortifie thee. Hee that will be healed, let him ſeeke the Phyſician; he that is out of the way, and would be ſet in the right way, let him inquire it out, and not ſit ſtill, and ſay, <hi>Lord have mercy upon me, &amp;c.</hi> but ſeeke unto God in the uſe of the meanes. It was that which <hi>Joſhuah</hi> did, chapter the ſeventh, he called upon God, but yet the Lord did not help him, but ſaid, Why doeſt thou ſo? <hi>Iſrael</hi> hath ſinned, looke to that; in
+<pb n="85" facs="tcp:123232:45"/>vaine it is to pray, that the enemie may not pre<g ref="char:EOLhyphen"/>vaile, and labour not to get ſinne out of the camp; but doe that, and then the overthrow of the Enemies will bee farre enough from thee.</p>
+               <p>Thirdly, when wee have found the meanes, labour to bee content to bee ordered by all the meanes and helps that God hath been pleaſed to ordaine for our good. It is a madneſſe to crave, as <hi>Balaam, Oh that I might die the death of the righteous,</hi> and not live their life; to ſee the way, and not to walke in it. <hi>Jer.</hi> 42. they ſaid to the Pro<g ref="char:EOLhyphen"/>phet, <hi>Inquire at the mouth of the Lord, and what<g ref="char:EOLhyphen"/>ſoever he commandeth, that wee will doe,</hi> but when they heard and knew it, they would not. In vaine it is to crave the pardon of ſinne, when we looke not to the promiſe; to deſire ſinne to be ſubdued, and yet not to abide the meanes that ſhould doe it: but if a man faith, he will not be counſelled, but will have his proud heart, and will walke in all his owne waies, how can he ſay, deliver me from this proud heart, when he will not have counſell take place? When a man is in horrour of heart, when conſcience flies in his face, it is in vaine to whine then, and yet not to be ruled by the Word of God, but be as vaine as ever, as looſe as ever, and as iddle as ever. Thou beggeſt one thing, and deſireſt another, and ſo long never put up this Petition.</p>
+               <p>Fourthly, wee muſt relye upon the Lord for a bleſſing and ſucceſſe in all wee pray for, or do.
+<pb n="86" facs="tcp:123232:46"/>We muſt ſo uſe the meanes, as if there were no promiſe to helpe us; and yet ſo depend on God for all, as though the meanes could doe nothing. Obſerve all thy occaſions, and ſay, counſell and adviſe is good, but the Lord muſt ſet them on; man lives not by bread only, but by the bleſſing of God in the meanes; goe to the Spirit of the Lord, and ſee there a greater power then in all meanes. 2 <hi>King.</hi> 2. <hi>If thou canſt ſee me taken up, then ſhalt thou have my Spirit double upon thee.</hi> The meaning is, if thou ſeeſt the God that takes me up, then he will give thee his Spirit; looke to God above all meanes, and he that is thus diſpoſed praies aright to be delivered.</p>
+            </div>
+            <div type="part">
+               <head>For thine is the Kingdome.</head>
+               <p>VVE have done with the ſixe Petitions: three concerning God, his Name, King<g ref="char:EOLhyphen"/>dome, Will: three concerning our ſelves, concer<g ref="char:EOLhyphen"/>ning things of this life, and of a better; to wit, juſtification, ſanctification; we come now to the concluſion, and conſiderin it two things.</p>
+               <p>Firſt, the thankſgiving.</p>
+               <p>Secondly, the concluſion of faith in the word <hi>Amen.</hi>
+               </p>
+               <p>In the thankſgiving is included both a reaſon of the Petition; as alſo, a forme of thankſgiving, as who ſhould ſay, wee doe not preſume wee can do any thing, unleſſe thou doſt worke in us
+<pb n="87" facs="tcp:123232:46"/>what thou requireſt of us; <hi>For thine is the King<g ref="char:EOLhyphen"/>dome.</hi> It is not in our power to doe what wee ſhould, or what thou requireſt of us; but the Kingdome is thine, all comes from thee, O Lord, and let all the glory of all be returned to thee again. Doe we hallow thy name, and pray for thy King<g ref="char:EOLhyphen"/>dome to come, and thy will be done? why? it is thou Lord, that muſt give the power; we beg all from thee, and this is included in the word <hi>power.</hi> For, as that we ſhould ſay, we have no power to do any thing, do thou all Lord, and take thou the glo<g ref="char:EOLhyphen"/>ry of all; ſo that is the ground why we beg all of him, and returne all to him.</p>
+               <p>
+                  <hi>What is here meant by Kingdome?</hi>
+                  <note place="margin">Queſt.</note>
+               </p>
+               <p>Firſt, the word <hi>Kingdom</hi> doth diſcover the right and authority of God, to give all things we want;<note place="margin">Anſw.</note> thou, Lord, haſt the diſpoſing of all things; we have no authority, nor no property that is in us, thine is the Kingdome, thou haſt all power to do what thou wilt. The Maſter doth what he will in his family, and the King rules in his Realme; ſo doth the Lord rule in the heart of his.</p>
+               <p>Secondly, the Lord hath not only authority to do what he will, but full and abundant ſufficiency to diſpoſe of all according to his will and pleaſure. Kings may want power to do what they would, and the ſons of <hi>Zeruiah</hi> may be too ſtrong for <hi>David;</hi> but as the Lord hath title to all, ſo his arme is long enough, his ability ſufficient enough to do all; there is much infirmity in us, but none at all in thee.</p>
+            </div>
+            <div type="part">
+               <pb n="88" facs="tcp:123232:47"/>
+               <head>And the glory.</head>
+               <p>THe glory of a thing, we know appeares in two things.</p>
+               <p>Firſt the excellency of it.</p>
+               <p>Secondly, in the beauty and ſplendor of its ex<g ref="char:EOLhyphen"/>cellency: this ſets forth the glory of a thing, as who ſhould ſay, if any beauty, excellency or glory be in the creature, it is thine, oh Lord; for thine is the Kingdome, power, and the glory.</p>
+               <p>
+                  <hi>Thine.</hi>
+               </p>
+               <p>
+                  <hi>What doth this word thine imply?</hi>
+                  <note place="margin">Queſt.</note>
+               </p>
+               <p>It implies three particulars.<note place="margin">Anſw.</note>
+               </p>
+               <p>Firſt, that all authority, ſufficiency, and excel<g ref="char:EOLhyphen"/>lency is firſtly in God, all is his by poſſeſſion and propriety. Any thing that we have or enjoy, it is but what we have of him, it is but a glimpſe and reflexion of that glory in God, and it is all firſtly in God, and he leaſes it out; it is my God and my por<g ref="char:EOLhyphen"/>tion, God is the roote of all we are or have, all po<g ref="char:EOLhyphen"/>wer and ſufficiency is in him firſtly.</p>
+               <p>Secondly, ſo all comes from him; whatever is in the creature, comes from him; all are but te<g ref="char:EOLhyphen"/>nants and leaſures of that they have from the Lord, who is the great poſſeſſour of Heaven and Earth.</p>
+               <p>Thirdly, it implies, that we ſhould acknowledge
+<pb n="89" facs="tcp:123232:47"/>all belonging to him, give every man his due: whoſe is this honour and power? the Lords: let him have it then; and this is to put off all ability and ſuffici<g ref="char:EOLhyphen"/>encie from our ſelves, and to acknowledge all to come from him: As thongh the ſoule ſhould ſay, Is there any thing in me, Lord? it is becauſe thou giveſt it: Thou giveſt unto us all our abilities and hearts to pray, and it is thou that heareſt us when we pray. It is all free mercie, all abilities are from thee; therefore, Lord, take all; for all is thine. Thus the ſoule diſclaimes all ſelfe.</p>
+            </div>
+            <div type="part">
+               <head>For ever and ever, &amp;c.</head>
+               <p>THat is, everlaſting power is in thee, which differs from all other power; all mans power is from GOD; but the Kingdom of GOD, his pow<g ref="char:EOLhyphen"/>er and his glory, it is for ever and ever. We can<g ref="char:EOLhyphen"/>not pray alwayes, our abilities faile and our hearts faint, but thy power endures for ever; the good things of this life, meat, drink, cloth, &amp;c. ſome times are gone, but yet thy power endures for ever to ſuccour us. When our abilities faile, yet power is for ever and ever in thee to renew them.</p>
+            </div>
+            <div type="part">
+               <head>Amen.</head>
+               <p>THe word <hi>Amen</hi> implyes three things:</p>
+               <p>Firſt, the terme of aſſeveration, and it diſ<g ref="char:EOLhyphen"/>covers the truth of a thing.</p>
+               <pb n="90" facs="tcp:123232:48"/>
+               <p>Secondly, a wiſh, Oh, ſaith the ſoule, that it might be.</p>
+               <p>Thirdly, the voyce of a confident faith; It is ſo, it is done Lord: all theſe three are implyed: but this laſt mainly here intended. Theſe things wee have prayed for, that according to thy will they are veri<g ref="char:EOLhyphen"/>ly done: As alſo, there is a ſecret looking after the Petition when it is put up, the ſoule followes the Petition: Now, ſaith the ſoule, they ſpeed, the LDRD grants theſe petitions: as a man that ſhoots an Arrow, he looks after it: So the ſoule ſaith, Oh, that the Lord would ſpeed it. So when the Petiti<g ref="char:EOLhyphen"/>ons are ſent to heaven, the heart followes the blow and looks after them, it ſends his <hi>Amen;</hi> oh, that it might be ſo, and then faith ſaith, it is done undoubt<g ref="char:EOLhyphen"/>edly: As true as the Lord is faithfull, ſo theſe muſt needs be done. The word <hi>Amen</hi> ſtrikes the match thorow. The ſoule wiſheth, Oh that it might bee done, ſaith ſaith, it is done already. Prayer is as the key; when a man wants proviſion, hee goes to the Treaſurie and fetcheth it: So prayer fetcheth comfort, peace, and aſſurance, &amp;c. and <hi>Amen</hi> turns the key; it is mine, ſaith the Soule. Prayer is as a Golden Key.</p>
+               <trailer>FINIS.</trailer>
+            </div>
+         </div>
+      </body>
+   </text>
+</TEI>
